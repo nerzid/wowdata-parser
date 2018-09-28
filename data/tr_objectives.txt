@@ -1,0 +1,1560 @@
+0	Royal Summon ı oku ve Nathanos Blightcaller ı geçitten Durotar a doğru takip et.
+11	Kışladaki Deputy Rainer’a 8 Painted Gnoll Armbands getir.
+834	5 tane Sacks of Supplies topla.
+4883	Mavi tüylü kolyeyi Nara Wildmane e götür.
+24504	3 tane High Road Scout öldür.
+25126	6 tane Mottled Boar Katlet.
+25127	8 İşçi Scorpid Kuyruğu Topla.
+25128	Valley of Trials ta Hana zua yı bul.
+25134	Ustabaşının Copunu 4 Tembel Amele Üzerinde Kullan
+25136	6 Kaktüs Elması Topla.
+25152	Gornek ile konuş.
+25172	7 Northwatch Scout Öldür.
+44785	Thorim s Peak de 5 adet Sotrming Fury öldür.
+45972	Thunderaan ile konuş.
+46727	Stormwind Keep te Savaş Konseyi ne katılın.
+46728	Stormwind Harbor da Lady Jaina Proudmoore ile konuş.
+46729	Cyrus Crestfall ile buluş.
+46846	Zandalar Limanı ndaki farklı kişilere Zul un sözlerini ulaştırın.
+46926	15 Rıhtım Kabadayısı öldür.
+46927	4 Amani Disciple ye meydan oku.
+46928	Ghaz ragon un dillerini topla.
+46929	Tal aman dan 6 Amani Head ve Tal farrak tan 6 Sandfurry Head topla.
+46930	Kral Rastakhan ile tanış.
+46931	Sefaretini tesis et.
+46957	Prenses Talanji ye eşlik et.
+47098	Tradewinds Market teki The Ferry Dock, the Snug Harbor Inn, the Tradewinds Counting House, ve the Flight Master ı ziyaret et.
+47099	Tradewinds Market ta, Ferry Dock u, Snug Harbor Inn i, Tradewinds Counting House u ve Flight Master ı bulun.
+47103	Dazar alor da Flight Master Rokota nın yanında Rokhan ile buluş.
+47105	Princess Talanji ile birlikte ilerde Blood Troll izlerini ara.
+47130	Zandalari cesetlerinde Merasim Meşalesini kullan.
+47181	Liman Şefi nin ofisinde Water Barrel de Flynn nin tabancasını  ateşle.
+47186	Sanctum of the Sages teki 7th Legion Mage ile konuş.
+47188	Talanji ve Rokhan ile bir toplantı düzenle ve sonraki adımına karar ver.
+47189	Taelia ile konuş.
+47198	8 Wounded Captive i tedavi et.
+47199	Blood Gate e doğru yola çık.
+47200	6 Bloodbelly Fliers öldür.
+47201	Old Rotana ile savaşa doğru git ve Rokhan ı bul.
+47204	Blood Troll güçlerini öldür.
+47205	Warmother Shazraka yı öldür.
+47226	Warbeast Kraal da genç direhorn ile ilgilenebilecek birisini bul.
+47228	15 Xibalan predator ı öldür.
+47229	Yaşlı Rotana yı Blood Trollerine karşı savaşa sür.
+47235	Xibala ya 3 Scrying Vessel yerleştir.
+47241	Loa, Bwonsamdi nin konumunun ipuçlarını araştır.
+47244	Blood Witch Najima yı yen.
+47245	Kargaşayı araştır.
+47247	Hex Priestess Tizeja ve Warlord Malaja yı yen.
+47248	Valjabu s Tusk Ring, Elde Et.
+47249	Court of Spirits de Bwonsamdi ile konus ve ayini tamamla
+47250	Zo bal Ruins e git ve Hanzabu ile konuş.
+47257	Xibala ya gidip Examiner Tae shara Bloodwatcher ile konuş.
+47258	Nathanos Blightcaller ile konuş.
+47259	Yavruyu besle.
+47260	Warbeast Kraal da Beastlord L kala ile konuş.
+47261	Kraal Master B khor ile konuşup Direhorn unu eğitmek için seçim yap.
+47262	Blood Troll lerin  Şahanası  Ateena yı öldür.
+47263	Talanji ye Ateena yı yakalamasında yardım et.
+47264	8 blood troll öldür.
+47272	10 tane taze leş topla.
+47289	Çay partisi için Mr. Munchykins, Trunksy, ve Mayor Striggs i bul getir.
+47299	Tiragarde Sound un içinde bulunan Tiragarde Redoubt da Marshal Everit Reade ile buluş.
+47310	Beast Pen e Direhorn unu bağla.
+47311	Yavruna 12 yaratıkla savaşırken yardım et.
+47312	Queenfeather ı öldür ve tüylerinden birini al.
+47313	Dazar alor içerisinde  İnfazcıları sorgula.
+47314	Bladeguard Kaja yı takip et.
+47315	Warguard Rakera yı aramak için Vol dun çöllerine uç.
+47316	Günlüğün kayıp sayfalarını toparla.
+47317	Kaza alanının civarında kazazedeleri ara.
+47318	8 Prickly Fruit topla.
+47319	15 tane Sandstinger Venom Gland topla.
+47320	Canlandırıcı Merhemi Bladeguard Kaja ya kullan.
+47321	The Serpent s Maw içindeki sethraklardan 6 Knickknack topla.
+47322	The Serpent s Maw dan Hakasi ve Kipp i kurtar.
+47324	Sanctuary of the Devoted a uç.
+47325	Sethrak Assault Camp ten Nisha yı kurtar.
+47327	Sethrak ı Abandoned Burrows da öldür.
+47328	Zul Ahjin deki Julwaba yı bul.
+47329	Examiner Tae shara Bloodwatcher a bir Xibalan fosilini geri almasında yardım et.
+47418	Direhorn Büyüme Hormonunu yavruna yedir.
+47422	Degrada yı öldür.
+47423	the Terrace of the Chosen da 9 adet Crimson Cultist bul ve öldür.
+47428	Glenbrook Woods da Smoochums u bul.
+47432	King Rastakhan ile konuş.
+47433	Hexlord Raal ile gökyüzünde devriye gezin.
+47434	20 Pterrordax Yavrusunu kıştla.
+47435	6 Bloodraged  Pterrordax öldür.
+47437	Zanchul un 3 Corrupted Guardian ını öldür.
+47438	Bir loa seç.
+47439	Gonk la uzlaş.
+47440	Paku yla uzlaş.
+47441	Zocalo daki 8 Hırsızlık Yapan Snapper ı katler.
+47442	Jani nin testinden geç.
+47445	Zocalo da Wardruid Loti ile konuş.
+47485	Ashvane Foundry de 5 Marked Goods u incele.
+47486	Ashvane Foundry de 5 İşaretli Ürünü İncele.
+47487	10 adet Company Watchmen, Company Enforcers, veya Company Fusiliers öldür.
+47488	Ashvane Foundry den 6 Urchin Worker serbest bırak.
+47489	The Maiden s Virtue ya Kaçak Olarak Bin.
+47491	6 adet Decaying Bloodstones u Bwonsamdi için topla.
+47493	Keula yı Necropolis te ara.
+47495	Direhorn unu besle.
+47497	Goldtusk Hanındaki görevli ile tanış.
+47498	Dead Man s Pass deki Zulsan ı Bul.
+47499	Idol of Binding, Idol of Immortality ve Idol of Sacrifice. Bu üç putu topla.
+47500	Lost Mojo Oasis i işgal eden 10 sethrak ı öldür.
+47501	Dead Man s Pass daki deathsnap scorpid lerden 20 Caustic Scorpid Blood topla.
+47502	Sandfury Hideout da, kaçırılmış Goldtusk Gang üyelerini kurtar.
+47503	Sandfury Hideout da Gozda kun the Slaver ı öldür.
+47509	Terrace of the Chosen yakınlarında Kaza jin the Wavebinder ile buluş.
+47512	Prenses Talanji yle konuş.
+47513	Prenses Talanji yle konuş.
+47514	Prenses Talanji yle konuş.
+47518	Crazzak ı öldür ve Hexlord Raal ı kurtar.
+47520	Zanchul da 8 örümcek öldür.
+47521	Hexlord Raal ile Loa nın bahçesine uç.
+47522	Gonk u kurtar.
+47525	Frogmarsh ı araştır.
+47528	Yazma ve Vol kaal ı Garden of the Loa da mağlup et.
+47529	Hangi loanın kutsamasını alacağını seç.
+47540	Totemlerin güçlerini etkinleştir ve Krag wa yı iyileştir.
+47564	10 tane Whistlebloom Juicy Fruit topla.
+47570	Naga istila planlarını bulun.
+47571	Invasion Plans ı Elder Kuppaka ya ulaştır.
+47573	6 Jungleweb Crawler ve 30 Jungleweb Hatchling öldür.
+47574	8 Tortaka Tribesman ı kurtar.
+47576	Naga istilasını alt et.
+47577	8 Naga Spirit i sorgula.
+47578	Kimbul un Tapınağında Söyleşi
+47580	Mepjila nın ruhunu yok et.
+47581	Ring of Tides ı ele geçir.
+47583	8 Venomous Diemetradon öldür.
+47584	Preserve deki 12 Thornhide ı Öldür
+47585	Korunakda 2 tane daha avcı bul.
+47586	Hemet Nesingwary inin izini bul.
+47587	Headhunter Jo yu öldür.
+47596	A.M.O.D. nin tüm parçalarını bul.
+47597	Gob Squad ın kayıp üyelerini bul ve kurtar.
+47598	Sundered Span deki naga lardan 20 Ancient Titan Relics topla.
+47599	Ticker s Rocket Launcher ı kullanarak 4 Vilescale Behemoth öldür.
+47601	A.M.O.D. kullanarak naga kamplarını yok et ve Grobathan ı yen.
+47602	Gloom Hollow a git ve Princess Talanji ile konuş.
+47621	Nazmir in Upper Frogmarsh bölgesinde etleri için yaratıkları öldür.
+47622	Upper Frogmarsh da Beautiful Glowflies Topla.
+47623	Scepter of Rebirth ü elde et ve Zentimo üzerinde Rite of Krag wa Ritual ını gerçekleştir.
+47631	Wayward Shoals daki Patch ile konuş.
+47638	Goldtusk Çetesinin kabul ayinine katıl.
+47659	Frogmarsh yakınlarında Warmother Boatema yı gebert.
+47660	Frogmarsh taki Blood trollü kampından Stolen Idols of Krag wa eşyasını al.
+47671	Antik tableti Temple of Akunda ya geri götür
+47672	Temple of Akunda daki kadim tablete geri dön.
+47695	Fogcliff Strand ta 8 Wailing Siren öldür.
+47696	Krag wa nın gücünü kullanarak blood troll karşı saldırısını alt et.
+47697	Prenses Talanji ye başarılı olduğunu bildir.
+47706	Skull of K tal ı al.
+47711	Sundered Span da Lord Slithin i öldür.
+47716	Zul Ahjin de Julwaba yı bul.
+47733	Loa-Speaker Kihara yı öldür.
+47734	Soulrender Gao tan ve Darkweaver Ji tan ı öldür.
+47735	Ancient Jol için bir envenomed puffer spine, bir brutosaur scale, ve aged crab foam topla.
+47736	12 tane Traitorous Zandalari Head topla.
+47737	Temple of Rezan da King Rastakhan ile buluş.
+47738	Jamil in barakasına bir Idol of Rezan yerleştir ve Rezan ı Rastakhan ın ruhunu kurtarması için ikna et.
+47739	Zeb ahari deki Zul ün takipçilerinden 12 Traitor s Blood topla.
+47740	Rezan ın 3 Heykelini Arındır.
+47741	Vilnak dor u öldür ve Rezan ın kurban edilmesini önle.
+47742	Amiral Gemisi Rastakhan s Might da 10 tane mutinous Zandalari troll ü öldür.
+47755	Fogcliff Strand ta 6 Enthralled Sailor serbest bırak.
+47860	Randall Redmond a sağlam bir tokat at ki uyansın!
+47868	Nekropolis avlusunda Hanzabu ile konuş.
+47870	Randall ın keşif birliğinin kalan üyelerini öldür.
+47871	Seafaring Hat, Nautical Map ve Weathered Spyglass. Bu üç objeyi topla.
+47873	Captain Calhoun un Zulasını Yağmala.
+47874	Warguard Rakera yı takip et.
+47880	Hanzabu nun Ayin Fetish i ile, ayin çemberini çiz ve Drum of the Spirits i çalarak ayini tamamla.
+47897	10 tane Zanchuli haini öldür.
+47915	Loti nin Putunu geri al.
+47918	Upper Frogmarsh ta Shadow Hunter Narez ile buluş.
+47919	Corpse Mongers Jal aka, Yon gi, ve Nog shra yı öldür.
+47924	Kajosh s scroll of inferno yu kullanarak 5 Profane Totem i yok et.
+47925	Shoak ı Natha vor troll lerinin elinden kurtar.
+47926	Tortollan Outpost unda Kajosh ve Shoak ile buluş.
+47928	Eraka no Kimbul ile görüş.
+47939	6 tane Ashvane Trader Keyi topla.
+47943	8 Clampclaw Clacker yakala.
+47945	Carver s Harbor da Thomas Staughton ile buluş.
+47946	Trevor Hightide, Kyle Sailford, Travis Daybreak ve Burke Stevenson ı serbest bırak.
+47947	Carver s Harbor da 10 tane Hexed Howlers katlet.
+47948	Roland the Butcher ı katlet.
+47949	Domuz fetişini Thomas Staughton a getir.
+47950	Domuz Fetişini kamp ateşine fırlat.
+47952	Stormsong Monastery e giden bir sandal kirala.
+47959	Warguard Rakera yı aramak için Meerah s Caravan ile yolculuk yap.
+47960	Ashvane Trading Company nin soruşturulmasını öner.
+47961	House Waycrest ile bağlantı kurmayı öner.
+47962	Kul Tiran ın kayıp filosunu soruşturmayı öner.
+47963	Pa ku yu kurtar.
+47965	Teekcha ile konuş.
+47968	Fallhaven daki köylülerin yazılarını incele
+47978	Helena Gentle ile Fallhaven ın dışındaki evinde yüzleş.
+47979	Shrouded Foothills de Helena Gentle ın hikayesini dinle
+47980	Shrouded Foothills de 10 tane enthralled hayvan öldür.
+47981	Shrouded Foothills de 3 adet Lesser Effigies i yok et.
+47982	Fallhaven daki Cursed Effigy yok et.
+47998	10 Natha vor Cannibal öldür.
+48003	Lord Aldrius Norwington ile the Norwington Estate de buluş.
+48004	Cooper a bin ve Kul Tiran binicilik yeteneklerini geliştir.
+48005	Araziyi dolaş ve şenliklere katıl.
+48008	5 tane Infested Cargo yu yak.
+48009	10 Mind-Addled Enforcer ı Öldür.
+48014	Scavenger s Strand de 6 tane Gilblin öldür.
+48015	3 tane Tortollan Scroll topla.
+48017	6 tane Artifacts of Gral topla.
+48023	5 Explicit Orders elde et.
+48025	Gral ın antikalarını gizle.
+48026	Summoner Siavass ve Whispering Horror ı öldür.
+48070	Abbey Watkins ile Foxhollow Woods un sınırında buluş.
+48077	Faintstep Stoats tan 5 tane Soft Stoat Pelts topla.
+48080	8 Rugged Boar Tusks Topla.
+48087	Lord Norwington ın en sevdiği atı Rose u tepebaşındaki konağından getir.
+48088	Norwington Estate de 20 adet Grimestone troggs öldür.
+48089	8 Kul Tiran lıya moral vermek için Horn of the Mountain kullan.
+48090	Krol dra the Wise, Wok grug the Clever, ve Wag shash the Bold u kurtar.
+48092	Priestess Zaldraxia yı alt et.
+48104	
+48108	Constable Henry Framer ile Drustvar daki Hangman s Point de buluş.
+48109	Watchman s Wood da 4 tane Watchful Raven ve 6 tane Darkmaw Prowler öldür.
+48110	Watcher s Wood da 6 tane tuzak kur.
+48111	Hangman s Point teki 5 Fletcher s Hollow Villagers ı sorgula.
+48113	Hangman s Point in yakınındaki Hawthorne s Plot tan bir Juicy Onion topla.
+48165	Hangman s Point civarındaki Shallows Saurolisk lerden 5 tane Intact Venom Gland topla.
+48170	Boş bir kavanoz bul ve Hangman s Point yakınlarında 8 tane Hovering Bloodfly yakalamak için kullan.
+48171	Drustvar daki Timbered Strand de Evelyn Pare ile konuş.
+48176	Little Tortolla da Toki ile konuş.
+48179	10 tane Thornspeaker, Ranger ve Pet kurtar.
+48180	Ancient Sentinel ı alt et.
+48182	Ancient Cairn ları yok et.
+48183	Awoken Guardian lardan 8 tane Runic Power Core topla.
+48184	Harabeleri Drust hakkında bilgi bulmak için araştır.
+48195	Mistfall Cleft de 8 adet Grimestone Bully ve 8 adet Grimestone Thrower öldür.
+48196	Eddie Norwington ın izlerini takip et.
+48198	Hangman s Point de Lucy Waycrest in suçsuzluğunu ispat etmek için yapılacak testleri yönet.
+48283	Lucy Waycrest ile Hangman s Point de konuş.
+48307	5 adet Corrupted Totem yok et.
+48313	Zul Ahjin de 6 Prickly Plum topla.
+48314	Zul Ahjin den 7 adet Scorpashi Stingers topla.
+48315	Heykelin eksik mücevherlerini bul.
+48317	Assistant Telemancer Astrandis ile kuzey Xibala da buluş ve Eye of Xibala yı bulması için ona yardım et.
+48320	Whistlebloom Oasis te 15 yırtıcı öldür.
+48321	Whistlebloom Oasis den Bloodcrest s Giant Rib topla.
+48322	Gelmekte olan konukları selamla ve onlara Goldtusk Hanı nı gezdir.
+48324	Meeki yi bul.
+48326	Gong of Zem lan ı çal ve Pirate-king Zem lan ı öldür.
+48327	Whistlebloom Oasis te Rhan ka ya ananası teslim et.
+48329	Scion of Rakjan ı özgür bırak ve ona Rakjan the Unbroken a doğru rehberlik et.
+48330	Zak rajan the Undying i taht odasında öldür.
+48331	5 adet Soul-Trapped Guardian öldür ve Soulcatcher Totem i cesetlerinden ruhlarını çekmek için kullan.
+48332	25 tane Intact Ranishu Stomach i topla.
+48334	Bir Malfunctioning Golem bul ve gücünün kaynağını keşfet.
+48335	6 tane Sandspinner Silk topla.
+48347	Brother Therold ile Anglepoint Wharf ta buluş.
+48348	Barbtail Stingrays ta 4 tane Venomous Barbs topla.
+48352	Harbor Seaweed den 8 adet Bunches of Seaweed topla.
+48353	Julian Nichols, Ginger Freelin, ve Aaron Gutier ile Anglepoint Wharf ta konuş.
+48354	5 adet Barrels of Fish i kontrol et.
+48355	8 Anglepoint Fishpacker ı tahliye et.
+48356	Anglepoint Packing District de, Possessed Dockworkers ı kontrol eden 10 Parasitic Mindstealers öldür.
+48365	Brother Conway i öldür, sonra Lord Brannon Stormsong u Anglepoint Wharf tan kurtar.
+48366	Escape Rowboat u Outrigger Post a gitmek için kullan.
+48367	Anglepoint Bay de 30 Corrupted Egg Kır.
+48368	Anglepoint Bay de üç Corrupting Pylon u yok et.
+48369	Benjamin Algerson u Fernwood Ridge yakınlarında bul.
+48370	Anglepoint Bay de 8 Deepwarden Followers öldür.
+48372	Anglepoint Bay de Director Deepwarden ı öldür.
+48399	7 tane Dark Iron Dwarf öldür.
+48400	Urda Direflame i öldür ve Eye of Xibala yakınlarına bir telemancy beacon yerleştir.
+48402	Blowgun ı kullanarak 6 Bloodhunter troll ünü zayıf düşür.
+48404	5 Street Scamp in çalmasına engel ol.
+48405	Mista Nice ı bul ve öldür.
+48419	Flynn Fairwind i ara.
+48421	8 adet Wailing Siren öldür.
+48452	3 Dark Fetish topla ve Chalice of Blood ı yok et.
+48454	Zolani, Blade of the King ile konuş.
+48456	Witch Doctor Jala yı bul.
+48468	Cremation torch ile 10 defiled troll corpse yak.
+48473	5 Ritual Torche u yak ve Shinga Deathwalker s Ritual Powder elde et.
+48475	Gravebloom topla, salve yap ve kullan, ardından Aaron Cresterly i bul.
+48476	Bridged Fairwater ın ruhunu serbest bırak.
+48477	Sister Westwood u katlet.
+48478	Shinga Deathwalker ın Spirit Powder ını kullanarak Kel vax ın Ancient, Repaired ve Pristine Phylacteries ini topla.
+48479	40 Cursed Bones topla.
+48480	Kel vax Deathwalker ı alt et.
+48483	8 Felbound Drudge ı iyileştir.
+48492	Chadwick Paxton ın bacaklarını topla.
+48496	Chadwick Paxton ın bölüğünden kalanları kurtar.
+48497	10 Sethrak ı alt et.
+48498	Fangcaller Sithis den Skycaller Gem i geri al.
+48499	20 Enraged Sethrak ı Skycaller Gem i kullanarak alt et.
+48500	Artificer Shela na, Thelbus Wimblenod and High Priestess Ishanah ile konuş.
+48504	Gol Osigr da Inquisitor Cleardawn ile buluş.
+48505	Flynn e Freehold a kadar eşlik et.
+48515	Fallen Defender lardan 6 adet Tarnished Blade topla.
+48516	50 tane Toxic Stinger elde et.
+48517	Savaş alanından 10 tane Weary Spirit i azlet.
+48518	Timbered Strand de 6 tane Frightened Woodsmen in yardımına koş.
+48519	Timbered Stran de kasabalılar bota binerken onları koru.
+48520	Fletcher s Hollow da, Sister Ashwell, Sister Early ve Sister Mooring ile yüzleş.
+48521	Başarılı bir şekilde onlardan birini kontrol edene kadar Wicker Charm ı Dormant Ravager ların üstünde dene.
+48522	Evelyn Pare e geri dön.
+48523	Elderstone Mine da Matron Levae i yenmek için Dorman Ravager ı kontrol et.
+48524	Elderstone Mine da Matron Leave in minion larından 25 tane öldür.
+48527	9 Ravenous Diemetradon öldür.
+48529	Sezahjin ile konuş.
+48530	Mugjabu ile konuş.
+48531	10 Dung Beetle Innard topla.
+48532	6 Alpaka yı toparla.
+48533	8 Tane Kızarmış Buzzard topla.
+48534	Snarltooth un Kafasını elde et.
+48535	Rokota ile konuş ve Nazmir deki Princess Talanji nin kampına doğru bir pterrordax ile git.
+48538	Hangman s Point de bulunan Constable Henry Framer a Evelyn Pare ın mektubunu ulaştır.
+48539	Flynn in Spyglass ını kullan.
+48540	Anglepoint Wharf civarından Bir Çuval Yosun, Bir Paket Parşömen, ve biraz da Fok Balığı Yağı topla.
+48549	Atul Aman da Grozztok u Öldür.
+48550	Sandfury Assassinlerden 5 Weathered Satchel topla.
+48551	Ranah s Watering Can kullanarak 10 Withered Thistlevine sula.
+48552	Withering Terrace ta Carnivorous Thistlevine lardan 30 tane Thistlevine Seed Topla.
+48553	Withering Gulch taki çeşmeleri tamir et.
+48554	Withering Terrace da, süs havuzunun neden çalışmadığını berlirlemek için Ranah a yardım et.
+48555	Withering Terrace içindeki Fertile Soil a 8 tane Thistlevine Seeds ek.
+48557	Loamy Soil içine 4 adet tohum ek.
+48558	Irontide Cutthroats ve Irontide Trickshots dan 3 Azerite Cutlasses ve 2 Horns of Azerite Powder topla.
+48573	8 primal snapjaw özünü Sur jan ın Ritual Dagger ını kullanarak soğur.
+48574	40 Saurid Dişi Topla.
+48576	8 Primal Skyterror öldür.
+48577	5 Skyterror egg i yok et.
+48578	Jarkadiax ın gözünü getir.
+48581	Terbiyecilerin Pinky i sakinleştirmesine yardım et.
+48584	45 Coagulated Dreadtick Blood topla.
+48585	10 Scavenged Supply topla.
+48590	Sur jan ın kafa ve omuz zırhını kurtar.
+48591	Urok u alt et.
+48597	6 tane Tuzağa düşmüş Saurolisk i kurtar.
+48604	Fallhaven daki Elijah Eggleton a geri dön.
+48606	Ashvane Topunu 6 Ashvane Co. Malzemelerini yok etmek için kullan. Top için Azerite Top gülleleri gereklidir.
+48616	Bola Launcher ile 6 Hollowbeak Kartalını vur.
+48622	Drustvar - Fallhaven da Cyril White ile tanış.
+48630	8 Cursed Raptor öldür.
+48653	Restored Eye of Eternity i Dreadmire daki istirahatgahına geri götür.
+48655	Junji nin yerini tespit et.
+48656	Arid Basin de 8 Scaleclaw Saurolisk öldür.
+48657	Arid Basin den 10 saurolisk egg topla.
+48669	Urok, Terror of the Wetlands i bul.
+48670	Mistfall Cleft ın yakınında Melissa Kenny ile buluş.
+48677	Autumnvale da Lord Autumnvale ile buluş.
+48678	Autumnvale daki Wicker Man e, doğru adakları götür.
+48679	Barbthorn Ridge te Edwin Maldus i bul.
+48682	Autumnvale da Edwin Maldus u Wickerite Cultist lerden kurtar.
+48683	Autumnvale de Wicker Man i yak.
+48684	Warguard Rakera yı bulmak için Meerah s Caravan ile seyahat et.
+48699	Jo chunga yı bulmak için Zalamar a gizlice gir.
+48715	Temple of Akunda yı araştır.
+48773	Rıhtım müdürünün kayıtlarını topla.
+48775	6 tane fallen outcast i huzura kavuştur.
+48776	Kördüğüm olmuş Halat Donanımını  Denizci  Grog unu almak için kullan.
+48778	Stone Soup için gerekli malzemeleri Mistfall Cleft ten topla.
+48785	Crumbling Overlook ta 10 Ranishu yu öldür.
+48786	8 Half-Eaten Supply Topla.
+48787	Crumbling Overlook ta Big Ranishu dan Heiro s Lucky Tambourine i Al.
+48790	6 tane stolen supplies ı geri al.
+48792	10 tane Bonegnasher Trogg öldür.
+48793	Çocukların izini ara.
+48800	Zalamar da Blood Witches Vashera, Yialu, ve Zu Anji nin talismanlarını topla.
+48801	Zalamar da tılsımları Blood Witches Vashera,Yialu, ve Zu Anji den geri al.
+48804	Adventurer s Society i kurtar.
+48805	"Kutsal Eşyaları" geri al.
+48808	Tez sayfalarını kurtar.
+48823	Da jul un Fire Mojo su ile 3 Skeleton Mound yok et.
+48825	Hexxer Nana kwug u yen ve onun blood fetish ini elde et.
+48826	10 sandstorm elemental öldür.
+48838	20 adet Living Water Essence topla.
+48840	Goldtusk Inn coupon unu Kenzou ya teslim et.
+48845	5 tane Sethrak Cannon ı yok et.
+48846	Zauljin e bir şişe Zanchuli Reserve getir.
+48847	8 Scorched Sands Outcast i teçhizatlandır.
+48850	Tongo nun kellesini getir.
+48853	Cragg the Stoneshaker ı öldür ve Nigel Rifthold ı serbest bırak.
+48854	Zardrax ın konuşmasını dinle.
+48855	Modified Blood Fetish i kullanarak zayıflattığın 3 Reconstructed Terror ü yen.
+48856	8 Zardrax Conduit i yen.
+48857	Kal dran ı sakinleştir.
+48869	Zardrax the Empowerer ı yen.
+48871	Zul Ahjin de 8 tane Ahjani Relic topla.
+48872	Ruins de 12 tane Sethrak katlet.
+48873	6 Grizzly Pelts Topla.
+48874	5 Bear Traps kur.
+48879	12 tane Hawk Egg Topla.
+48880	Mudfish Lodge yakınlarındaki bölgeci nehir martılarından 10 tane öldür.
+48881	Snapclaw Shore da 6 oltayı makarala.
+48882	Mudfish Lodge un yakınlarında ki Intact Mudfish ten 9 Mudfish Innard topla.
+48883	Mudfish Lodge da Brinebeak i öldür.
+48887	Shrine of Thunder da meditasyon yap ve içindeki şeytanlarla yüzleş.
+48888	Eternal Springs yakınlarında Redrock Scavenger ları ve Redrock Howler ları öldür.
+48889	Akunda nın zihnini onarırken Meijani yi koru.
+48890	5 Unproven Drudge test et.
+48891	Thundering Gorge da Thornspine Saurolisk lerden 10 Fresh Saurolisk Meat topla.
+48893	Bouldered Bluffs içinden 10 Speckled Egg topla.
+48894	Akunda the Exalted a ismini söyle.
+48895	Temple of Akunda daAkunda the Exalted a adağı teslim et.
+48896	Julwaba yı aramak için Meerah ın Karavanı ile seyahat et.
+48897	King Rastakhan la konuş.
+48898	Rockskip Falls taki Lucktail s Tail i Lucktail den Topla.
+48899	Rockskip Falls tan 8 tane Durable Seashell topla.
+48902	Rockskip Falls ta ki Venomscale Slitherers ın İçinden 6 Pulsating Extract Topla.
+48903	Majo ya bir at seçmesi ve binmesinde yardımcı ol.
+48904	Snapclaw Shore da Snapclaw Crab lerinden 15 tane Snapclaw Meat topla.
+48905	8 Tortollan Scroll elde et.
+48909	Katil canavarın izini sür ve onu öldür.
+48930	Çalınan Shop Goodları geri getir.
+48932	Crazed Grovestrangler lardan 20 adet Plateau Lumber Topla.
+48939	Gösteriye başlamak için Cooper a bin ve en az 150 puan elde et.
+48941	Drustvar daki Highroad Pass de Lucille Waycrest ile buluş.
+48942	Alpine Rise da 8 tane Chillfur Yeti öldür.
+48943	Alpine Rise da Wrapped Suppleis, Cask of Salted Fish, Hardened Lockbox, Bucket of Grain kurtar.
+48944	Forgotten Lodge daki gizli geçidi bul.
+48945	Lucille Waycrest e Gol Var a kadar eşlik et.
+48946	Gol Var da Tome of Silver ve Ash i al.
+48947	Gol Koval da Rebecca yı bul.
+48948	Thaddeus Rifthold u Northern Cavern ları yakınında bul.
+48949	Dreadmire dan 6 Graveweed filizi topla.
+48963	Aspen Rise de Frostmange i alt et.
+48965	Foxhollow Woods daki Chartusk ı Öldür.
+48986	Drustvar daki Arom s Stand de Lucille Waycrest ile buluş.
+48987	Valley of Sorrows da Meijani yi bul.
+48988	Unwanted Memories in içinde ipuçları ara.
+48989	8 Alchemical Supply yok et.
+48990	Xenxuju ile buluş.
+48991	Redrock Mesa da 12 ranishu katlet.
+48992	6 Sacred Remains topla.
+48993	Rorgog s Antenna yı geri getir.
+48994	Akunda the Liar ile konuş.
+48996	Akunda the Exalted ı mağlup et.
+48997	Verdant Plateau da 10 ranishu öldür.
+48998	Verdant Plateau da ranishu nun yediği tuhaf şeyleri incele.
+49001	8 tane Tortured Spirit öldür.
+49002	Faithless Trapper s Spear ı kullanarak Fangcaller Hrillik in pterrordax ını yere düşür ve onu öldür.
+49003	Rakjan the Unbroken a bin ve Faithless ı öldür.
+49005	Kırık ve Bozuk Anıları Öldür.
+49028	Koltanın materyallerini topla.
+49036	Gözteriyi başlatmak için Cooper a bin ve en az 300 puan yap.
+49039	Kamp enkazını araştır.
+49040	Jorak ın Notunu Zuldazar daki B wizati ye teslim et.
+49059	Xibala ya git ve Acadia Chistlestone ile buluş.
+49060	12 Xibalan predator öldür.
+49064	Kaplumbağaların hac yolunu takip ederek Kaplumbağa loası Torga ya ulaş.
+49066	Buz elemental larından 20 adet Pristine Ice Chunk topla.
+49067	Yardımını istemek için Bwonsamdi yi çağır.
+49069	Old Frostclaw ı öldür.
+49070	Torga dan 10 blood troll ruhu talep et.
+49071	Lashk ın yakma parşömenini kullanarak 5 tane Dreadtick Leecher ı havaya uçur.
+49072	Lord Kennings i bul.
+49073	Kisha s scroll of purging kullanarak 3 kan ayinini engelle.
+49078	Poisoned Mojo Flask Kullanarak 5 Tamed Warspawn ı Zehirle.
+49079	Jo chunga ile birlikte Hir eek ile yüzleş.
+49080	Summoner Yarz ı öldür.
+49081	Yarasaların Loa sı Hir eek i alt et.
+49082	Zo bal harabelerine geri dön ve Witch Doctor Kejabu ya ne olduğunu anlat.
+49120	Bwonsamdi den Torga nın ruhunu çağırmasını iste.
+49122	Warport Rastari de Habutu ve Zolani ile buluş.
+49123	12 Blood Crawg veya sürücüsü öldür.
+49124	Lashk s Scroll of Purging kullanarak 6 Tortollan Captive i blood troll lerin elinden kurtar.
+49125	Scroll of Purification ı kullanarak 8 Corrupted Loa s Blood ı yok et ve Damaged Scroll of Fate i kurtar.
+49126	Blood Coast boyunca 50 undead yok etmek için Scroll of Fate s Hand i kullanarak Hand of Fate i çağır.
+49127	Hexxer Zas guk u Öldür.
+49130	Blood Trollerden 6 tane Parts of Torga geri getir.
+49131	Alana 4 adet Sanctifying Totem yerleştir.
+49132	4 Blood Skullcrusher öldür.
+49136	G huun un elçisi Jungo yu alt et.
+49138	Captain Gulnaku nun hazine sandığını araştır.
+49139	Mugabu ve Jam jen in hayaletlerini öldür, böylece Omi depoları talan edebilsin.
+49141	Vorrik s Staff ı kullanarak 6 Faithless Suppression Spires dan güç çek.
+49144	8 Kao-Tien Marauder, Subjugator, ya da Charged Sentinel katlet.
+49145	12 Rastari Defender e moral ver.
+49146	Kaza jin in Reclaimed Bijous, Grimoire of the Other Side, and Venerated Remain lerini bul.
+49147	Jao-Ti the Thunderous ve Subjugator Zheng i öldür.
+49148	10 Stormbound Conqueror u yok et.
+49149	Rastari Skull Whistle ı kullanarak 5 Spirit Obelisk aktive et.
+49160	Lashk ın Scroll of Eternal Return unu kullanarak Torga nın ruhunu huzura kavuştur.
+49165	NYI Reputation Gövevleri Burada Başlıyor.
+49178	Friendly Pete, Hungry Sam ve Handy Bill den kayıp hatıralarını iste, sonra da bu hatıraları Wailing Tideway den topla.
+49181	Glimmering Locket i Stabby Jane e Götür.
+49185	Talanji ye Bwonsamdi ve Hir eek ile yaşadığın deneyimleri anlat.
+49217	Mağaranın içinde 5 tane zemin tuzağını tetikle.
+49218	Castaway Point de Stabby Jane ile konuş.
+49223	Carentan ı öldür.
+49225	Hilde Firebreaker ı bul.
+49226	Patheope ve Nolpe yi öldür.
+49227	Morrison un Master Key ini edin ve onu 8 tane Vulpera Captive i kurtarmak için kullan.
+49229	6 tane Ancient Protectors öldür.
+49230	5 tane Juicy Lurker Tails topla.
+49232	6 tane Drust Relic topla.
+49233	5 cursed raider ı kurtar.
+49234	Awakened Guardian ı öldür.
+49239	Irontide Şapkasını tak ve Flynn ile Freehold a gir.
+49242	Hawthorne s Plot ta 6 tane Territorial Quillrat öldür.
+49259	Hangman s Point i Lucille Waycrest le birlikte terket.
+49260	Arkeolog Firebreaker ı koru.
+49261	Sand Scuttlers dan Lumpy Crab Meat topla.
+49262	8 Shady Deckhand le yüzleş.
+49268	6 tane Invading Dreadmaw öldür.
+49274	Ruins of Xiabala daki Excavator Morgrum Emberflint in araştırma ekipmanlarını kontrol et.
+49278	Hanzabu s Charm eşyasını kullanarak Zo bal ruhlarını yeniden canlandır.
+49282	Excavator Morgrum Emberflint e araştıramasında yardımcı ol.
+49283	Sahilden aşağı, güneydoğu tarafında Seeker ların yerini sapta ve Batu ile konuş.
+49284	Scroll of Missing i kullanarak kayıp gezginleri takip et ve bul.
+49285	Koba nın bütün hazinelerini topla.
+49286	Sli thrus tan anahtarı al.
+49287	Nazeshi tarafından kaçırılaın tortollanları kurtar.
+49288	5 Seeker scrolls topla.
+49289	Tidemistress Nazesh i alt et ve naganın gönderilme sebebini anla.
+49290	Yüz Yıllık Burbon u Freehold da Carentan a Teslim Et.
+49292	Anglepoint Wharf ta Cleansing Tonic i 6 Nauseated Villager a paylaştır.
+49295	Timbered Strand ta 8 tane Curseformed Familiar öldür.
+49299	Overseer Bates i öldür.
+49301	Varoş mahallesi civarından 5 tane Çalıntı Kumaş topla.
+49302	Okri ye deniz geçidine kadar eşlik et, sonra Viq Goth u öldür.
+49309	Warlord Kao yu öldür.
+49310	Scarbeak ile Dazar alor a seyahat et.
+49314	Shadow Hunter Da jul u Burial Mound da bul.
+49327	Sanctuary of the Devoted daki Faithless assault ı dağıtın.
+49331	Temple of Sethraliss içindeki Vorrik e Heart of Sethraliss i teslim et.
+49333	Temple Incursion da 20 Sethrak Weapon topla.
+49334	Vorrik i bul ve onu esir alanlardan kurtar.
+49335	Temple Incursion da 6 Sethrak Skycaller öldür.
+49336	Geçmişi görmek için Heart of Sethraliss e bakmadan önce primordial glass ları mangallara yerleştir.
+49337	Hezzil e Heart of Sethraliss i sor.
+49340	Vorrik ile konuş ve Sulthis  Stone un önemini keşfet.
+49348	Mezarlığın içerisinde 5 tane Vile Desecration ı yok et.
+49366	Yaralı Zandalari leri tedavi et.
+49370	Chronicler Jabari yi serbest bırak.
+49376	Bir crawgling yakala.
+49377	Warmother Nagla nın kellesini getir.
+49378	Crawgling i besle.
+49379	5 Battle Crawg Öldür.
+49380	Blood orb ları boşalt.
+49382	Krag wa yı bul.
+49393	Roughneck Camp ta Tagart ile konuş.
+49394	6 Gentle Goat üzerinde Goat Shearsı kullan.
+49395	8 adet Scruffhide Bears öldür ve yakındaki arı kovanlarından 6 adet Sticky Bee Honey topla.
+49399	Bilge Rat Orders, Cutwater Corsair Orders, and Blacktooth Brawler Orders dokümanlarını topla.
+49400	Vigil Hill e gitmek için Taelia ile sür.
+49401	Freehold da Rodrigo ile konuş.
+49402	6 Runaway Macaws besle.
+49403	Freehold daki 100 korsanın üzerine Vile Bombardment at.
+49404	Flynn i Ring of Booty den kurtar.
+49405	Vigil Hill e gitmek için Taelia ile sür.
+49407	First Mate Trixie Tornsail i öldür.
+49409	Ned, Nance Barmy, ve Nub Nub a hazineyi sor, sonra onu bul.
+49412	Brawr ı öldür.
+49417	Greatfeather ı ele geçir.
+49418	Waning Glacier deki Roughneck kampında Boss Tak ile buluş.
+49419	Longdrop Hot Springs de ısının kaynağını bul.
+49421	Zocalo da Kral Rastakhan ile buluş.
+49422	Temple of the Prophet i harabeye çevir.
+49424	3 Words of Zul bul ve oku.
+49425	Atal Dazar yolundaki Zul güçlerini kır.
+49426	Rezan ve Rastakhan nın Atal Dazar kuşatmasına katıl.
+49427	Doğu Xibala sahilinde 8 Horde askerini öldür.
+49428	Third Telemancer Syranel i öldür ve Breath of Xibala yı ele geçir.
+49431	99 adet Steamy Essence topla.
+49432	Keula ya Necropolis içinde annesini bulması için yardım et.
+49433	10 adet wendigo öldür.
+49435	Kayıp Roughnecks ile ilgili ipuçlarını bulun.
+49437	Slithering Gulch ta Shath kar ı öldür.
+49438	Sethrak Cache nin anahtarını bul.
+49439	Whompus u öldür.
+49440	Seni bir blood troll olarak kamufle edebilmesi için Witch Doctor Kejabu nun rituelini tamamlamasına yardım et.
+49441	Koba nın Koloa s Sahil Kampı ndaki oyuncaklarına dön.
+49443	Lucille Waycrest e the Tome of Ash and Silver üzerinde çalışırken yardım et.
+49450	Fernwood Ridge de 10 Enthralled beast öldür.
+49451	Algerson Lumber Yard dan 5 tane Entangled Lumberjack kurtar.
+49452	5 tane çalınmış baltayı Algerson Oduncularından geri al.
+49453	6 Woodchewing Beaver ı suya geri kovala.
+49454	12 tane Mossfang Egg yok et.
+49464	Lichenjaw Saurolisk lerden 5 tane Saurolisk Tail topla.
+49465	Algerson Lumber Yard da 5 tane Wood-Adorned Skull topla.
+49467	Fernwood Ridge deki Witch of the Woods u öldür.
+49468	5 Webbed Lumberjack i serbest bırak.
+49472	Arcanomancer Vridiel e 50 tane Wakening Essence getir.
+49477	Forsaken Scouting Party lideri Chadwick Paxton ı bul.
+49479	Ingrid in Skycaller Gem i güçlendirmesine yardım et.
+49488	Tal gurub ta Zul the Prophet la Buluş.
+49490	Tal gurub taki hedeflerden 30 Ounces of Soul topla.
+49491	8 Voodoo Totem topla.
+49492	Vol jamba nın maskelerini yok et.
+49493	8 Mindslave yi serbest bırak.
+49494	Zuvembi Brewer Zekal ı öldür.
+49495	Voljamba nın aldığı önlemleri sabote et.
+49522	Tozlu sandığı aç.
+49523	Tradewinds Marketinde Roko ile konuş.
+49531	Resort un manzaraları ve vahşi yaşamıyla S.E.L.F.I.E. çek
+49569	Talanji ile nehirden aşağı doğru yelken aç ve Gob Squad ın A.M.O.D unu koru.
+49615	Golden Throne da Kral Rastakhan ile konuş.
+49661	Coilscale Nest lerden 10 Coilscale Egg topla
+49662	Bwoljin s Fall Vorrik le buluş.
+49663	Dazar alor daki King Rastakhan a geri dön.
+49664	Nisha ile konuş.
+49665	Kafesdeki 8 Vulpera Kölesini serbest bırak ve silahlandır.
+49666	Faithlesslerin cesetlerine 12 tane Vulpera Banner dik.
+49667	Appraiser Versik i öldür ve vulpera yavrularını Meerah a geri getir.
+49668	Slithering Gulch da köle pazarını yak.
+49669	Crawg ları serbest bırakmak için Tamer Traskniss i öldür.
+49670	Emperor Korthek in yerini sapta ve onu saldırı için savunmasız kıl.
+49672	Vunanju ile konuş.
+49676	Nisha ya bir savaş bayrağı, bir kasket, ve patlayıcılar bulmasında yardım et.
+49677	Fangcaller Sraka dan Nisha nın Attack Planlarını geri al.
+49678	4 Sethrak Kulesini Yok et.
+49679	Sandscar Breach de 12 sethrak öldür.
+49680	Skycaller Soltok u öldür.
+49681	Lil  Tika yı kurtar.
+49703	Mariner s Strand de kardeş Pike ve Taelia ile buluş.
+49704	Bir Drenched Mainspring elde et.
+49705	8 Exhausted Laborers ın yenilenmelerini sağla.
+49706	3 Stormsong Proclamations oku.
+49710	4 tane Spotted Gryphon Egg Topla.
+49715	Tallis Skyheart ile konuş.
+49716	8 Denizci kimlik rozetini geri al
+49719	Roughneck Kampında Tagart ile buluş.
+49720	5 adet Juvenile Seahawk ı özgür bırak.
+49725	Kardeş Pike yi saran kalabalığı dağıtın.
+49730	Thundersnout un burnunu Mayor Roz a getir.
+49731	Jorak s Note yi Zuldazar daki B wizati ye götür.
+49732	Rolf u, Mort u ve Spiff i Brennadam Square da bul.
+49733	5 yaralı denizciyi bandajla.
+49734	Fernn the Turncoat ı öldür.
+49735	7 tane aç Dewscale öldür.
+49736	15 Vigil Hill Marine lerine veya Militia lara ilham vermek için Proudmoore Battle Standard ını kullan.
+49737	6 adet Irontide Skyrider öldür.
+49738	Vigil Hill Topuna adam yerleştir ve onu 20 yağmacı öldürmek için kullan.
+49740	4 adet Captured Cannon u yok et.
+49741	Taelia ya Daelin Gate te korsan gemilerini imha etmesi için yardım et.
+49742	Mayor Roz u Ruins of Brennadam da bul.
+49743	4 Invading Grunts ve 4 Invading Axethrowers alt et.
+49744	8 Horde patlayıcısını ele geçir ve Demolisher lara karşı kullan.
+49745	Warchief in emirlerini bul.
+49746	Ruins of Brennadam etrafında Water Bucket ı kullanarak 15 ateşi söndür.
+49754	Zul güçlerini arındır.
+49755	Captain Wormwood u öldür ve Experimental War Machine e el koy.
+49757	Yanan eve tırman ve Scratchy i kurtar.
+49758	Gemiye bin.
+49768	Hemet Nesingwary ile Nesingwary s Trek te konuş.
+49769	Scavenger s Strand de Rokor u bul.
+49774	8 Sweetleaf topla.
+49775	Quartermaster Garza dan anahtarı al.
+49776	6 Sticky Tar topla.
+49777	Kaçak mahkumları sürgün et.
+49778	Jin Tiki onu tedavi ederken Zaluto yu tut.
+49779	10 Bone Raptor öldür.
+49780	4 tane Nazmani heykelinden ateş büyüsü absorbe et.
+49781	Zulato nun raptorunu Zulajin i tuzağa düşmek için katran çukurlarına doğru sür ve katran çukurunu ateşe ver.
+49785	Silahı incele. Reo kah ı öldür.
+49791	Dead Ringer i kullanarak 12 ruhu kurtar.
+49792	8 adet Anchors of Binding yok et.
+49793	Brother Addington için Tidal Kris, Abyssal Beacon ve Wavecaller s Mantle getir.
+49794	Sister Ava nın öcünü al.
+49801	Invasive Razorwings den 8 Bile Sac hasat et.
+49803	Asker alım emirlerini Arom s Stand daki Captain Cleardawn, Ensign Yorrick, Ensign Mace, Lieutenant Sterntide ve Falconer Notley e ilet.
+49804	Arom s Stand de Lucille in dikiş iğnesini 10 Corlain Refugee üzerinde gizli cadıları açığa çıkarmak için kullan.
+49805	Arom s Stand te 12 Heartsbane objesi yok et.
+49806	Crude Map üzerindeki işaretlenmiş bölgeyi keşfet.
+49807	Inquisitors Raiment ları Arom s Stand teki yeni katılanlara ver.
+49808	Warlord Xiar ı öldür.
+49810	Witch Doctor Jangalar ın Voodoo Totemini her iki brutosaurun yakınına yerleştir.
+49814	Irritable Maka fon için tütsülük 7 Fragrant Rushe bul.
+49818	Seabreeze Village de Lieutenant Bauer e rapor ver.
+49831	Su seddini Azhara nın saldırısından koru.
+49832	Parşömeni al ve Windswept Coast taki tortollan lara götür.
+49869	Lieutenant Tarenfold a rapor ver.
+49870	voodoo -ed Aggression Formula yı Ben jin e ver.
+49871	Warlord Xiar ı öldür ve sinyal ateşini yak.
+49884	Kuledeki işaret ışığını yakmak için Captain Grez ko ile uç.
+49886	Humphrey i kullanarak 5 tane Panicked Tunneler bul ve öldür.
+49887	Samuel Williams ı serbest bırak.
+49890	Ice Cavern ı incele.
+49892	Gloomtail in mağarasında Ben jin ile buluşup Gloomtail i yenmesine yardım et ve yaratığın kellesiyle geri dön.
+49896	Falconhurst un dışında Inquisitor Cleardawn ile buluş.
+49897	5 Unassuming Chicken yakala.
+49898	15 tane Drust Skeleton katlet.
+49901	Atal Dazar da Yazma yı alt et.
+49902	Gloom Hollow a giderken amacın için tortollanları topla.
+49905	Vol jamba yı öldür.
+49908	Brennadam da Squire Augustus III a rapor ver.
+49917	Village in the Vines e git.
+49919	Gorilla Gorge taki Kaja mite Steam Vent lerini Tara.
+49920	6 Pacifist Gorilla yı kurtar.
+49922	King Da ka yı katlet.
+49926	Drustvar daki Watchman s Rise da Marshal Reade ile buluş.
+49932	Gloom Hollow ın dışında devre dışı bırakılmış titan keeper ı incele.
+49935	Titan Data Core ları ölmüş titan keeper lardan geri al.
+49937	Naz wathan Spectres teki 25 Titan Plating i Topla.
+49938	12 Blood-Infused Lasher’ı Yok Et.
+49939	Sister Noella Briarwood u katlet.
+49940	Bladeguard Sonji ile Sandscar Breach te buluş.
+49941	Titan Manipulator kullanarak yeniden diriltilmiş dev canavarları zayıflat ve kemiklerinden 15 tanesini topla.
+49949	15 tane Naz wathan undead öldür.
+49950	4 tane Corrupted Energy yi yok et.
+49952	Titan Keeper Hezrel in Synthetic Essence i kullanmasını sağla ki geçmişteki undeadlere güvenli geçiş sağlasın.
+49955	6 Faceless One yen.
+49956	4 tane Void Portal ını mühürle.
+49957	Overlord Kraxis ten Containment Protocol ü Al.
+49960	Foreman Razorgnarl ı alt et.
+49965	Gonk la beraber Temple of the Prophet a git.
+49969	Gral a sunmak üzere yığınlarca çiğ naga etlerini topla.
+49970	Gral a sunmak için Naga eti parçaları topla.
+49975	Serbest bırakma ayinini tamamla.
+49976	Mathias Shaw ile konuş.
+49977	Nathanos Blightcaller ile görüş.
+49980	Titan Keeper Hezrel i, Nazmir in eski tanrılarının yozlaşmasına bir çözüm ararken gözlemle.
+49981	SI:7 kumandanı ile Silithus ta buluş.
+49982	Silithus da Grol Warblade ile konuş.
+49985	Gloom Hollow a geri dönmek için Atul nazman dışında Titan Keeper Hezrel ile buluş.
+49991	Quinsy Featherfeet e 100 gold öde ve sen ne zaman yakındaysan senin üzerine Slow Fall büyüsü yapsın.
+49995	8 tane Warship Blueprint leri kurtar.
+49996	12 tane Blessed Armament topla.
+49997	Wavespeaker Reid ile yüzleş.
+49998	Brother Pike a alametini soruşturmasında yardım et.
+50001	15 adet Briarwood Creature ve Hexthralled Villager öldür.
+50002	Fogcliff Strand deki  Kıymetli  kargoyu bul.
+50003	Watchman s Rise ta Sister Adela yı yen.
+50005	Penny babasına giderken ona eşlik et.
+50026	Fogcliff Strand de Henry Hardwick i bul.
+50036	Master Ashton a Liquid Fire iksirini yapmasında yardım et.
+50041	20 tane Salvaged Azerite Ammunition topla.
+50043	50 tane Xibalan fossil fragment topla.
+50044	Elemental Summoning Stone kullanarak Xibalan fosillerini ortaya çıkart. 50 Xibalan Fossil Fragment ini Acadia Chistlestone a getir.
+50046	10 dinamit balyası yerleştir.
+50047	8 Gizemli Maden Örneği Topla.
+50049	Khadgar ın mektubunu Silithus ta Magni Bronzebeard a ulaştır.
+50052	Silithus da 10 SI:7 Ajanı Öldür.
+50053	10 Tembel Madenciyi Motive et.
+50055	Khadgar ın mektubunu Magni Bronzebeard a götür.
+50058	Mossfang Matriarch ı Öldür.
+50059	Anthemusa yı öldür.
+50060	8 tane Boozey Slimes topla.
+50063	3 tane Briardwood Bulwark üzerinde Liquid Fire Potion ları tes et.
+50064	Bodruma gir.
+50065	Goldfield Farmstead i daha fazla yadigâr için ara.
+50069	Quilboar istilacılarını alt et.
+50070	İpuçları için Mildenhall Meadery i ara.
+50074	Aggression Formula yı Gentle Ben jin e ilet.
+50076	Ancient Gong u çal.
+50078	3 Reanimating Totem yok et.
+50079	Zul Nazman da Blood Troll barikatlarına topçu ateşi başlat.
+50081	6 yaralı Zandalari askerini kurtar.
+50082	Grand Ma da Ateena ile yüzleş.
+50083	Crawg Poison Gland elde et ve Amaka the Crawg Ma da yı öldür.
+50084	10 Zandalari Captive e silah ver.
+50085	Wand of Embers ı kullanarak Agwamar daki 8 Blood Trolü barakasını ateşe ver.
+50087	Grand Ma da Ateena yı öldür
+50088	Farmer Goldfield ın ailesini huzura kavuştur.
+50090	Cephe barikatları oluşturmak için lumber topla.
+50092	Yangınları söndürmek için Frost Breath Potion ı kullan.
+50110	Taelia ile Boralus a dön.
+50111	Briarback Kraul de ki Brambleguard Totemlerini yok et.
+50132	Ölü Honey Slime larından şu boş şişeyi kullanarak örnek topla.
+50134	10 tane Harvester Gizmo topla.
+50135	3 Vinemaster ı öldür.
+50136	Piloted Farmhand i kullanarak 30 düşman öldür.
+50138	Bloodfire Ravine i Blood Troll lerinden Al
+50139	Architect s Cipher ı Tideguard Pontus dan elde et.
+50149	Corlain i saran bölgeleri gözetlemesi için Inquisitor Notley ile Watchman s Rise da konuş.
+50150	Irritable Maka fon un yakınına Voodoo Love Incence i yerleştirip yak, sonra da ona Romantic Brutosaur Meal ı öner.
+50151	Corlain Armory de Angus Ballaster ı bul.
+50152	Corlain Armory den 10 tane Quality Salvage topla.
+50154	Yakınlardaki diemetridonların karnından 25 Partially Digested Pod topla.
+50157	Farmer Goldfield ı çiftliğinde bul.
+50158	Farmer Burton ı çiftliğinde bul.
+50161	Raimond Mildenhall ı bul.
+50162	60 tane Royal Jelly topla.
+50165	12 tane Highland Mauler öldür.
+50168	Hive Mother ın Stinger ını getir.
+50172	Inquisitor Cleardawn ile Crimsonwood a buluş.
+50173	Bleak Hills Mine dan 10 tane Silver Nuggets topla.
+50174	Bleak Hills Minde daki madencileri kurtarmak için 8 tane Writhing Cocoon u yok et.
+50175	Bleak Hills Mine da 20 tane Bilefang Spider öldür.
+50177	Barikatları saldırılardan koru!
+50195	Brackish Coast da Captain Bilgemaul u mağlup et ve onun War Spoil lerini yağmala.
+50226	10 tane Silithid Brain topla.
+50227	12 tane Silithid Broodling topla.
+50228	Michiel Voidstrider ın kellesini getir.
+50229	8 Twilight İpeği parçası topla.
+50230	10 Silithid Beyni Topla.
+50231	12 Silithid Larvası Çal.
+50232	Michiel Voidstrider in Kellesini Getir.
+50235	12 tane Zeb ahari köylüsünü kurtar.
+50238	Bramblethorn u öldür ve Lord Sharptooth u kurtar.
+50240	Pack of Pterrordax Snacks çal ve bunu, bir pterrordax ı şehrin derinliklerine sürmek için kullan.
+50249	Fernn in üç teğmeninin işini bitir.
+50251	Tutsak kasabalıları kurtarmak için 8 tane Binding Rune u yok et.
+50252	Nesli tükenme tehlikesi altında olan brutosaurların çiftleşmesi için Cala Cruzpot ve Witch Doctor Janagalar ile voodoo ve bilimin nasıl kullanılması gerektiğiyle ilgili bir strateji geliştir.
+50253	Watchman s Rise da Angus Ballaster ile gümüş silahlar yapması için konuş.
+50264	Honey Encased Farmhand leri kurtar.
+50265	Master Ashton ı serbes bırakmak için Hexwood Binder dan anahtarı al.
+50266	Samantha Sweet i kurtar ve eşyalarını geri al.
+50268	Witchdoctor Jangalar ın kazanından Cala nın formülüne biraz voodoo ekle.
+50285	12 Freshwater Crab Meat topla.
+50297	Gloomtail ın kafasını Maka fon un önüne koy böylece bölgesinin güvenli olduğunu ve sebebinin de  Ben jin olduğunu bilecek.
+50306	4 adet Organic Matter Samples ve 3 adet Bags of Reagents topla.
+50321	6 Viscous Mojo Şişesi Yok Et.
+50325	Ritual Foci yi yok et.
+50327	Kupayı Master Ashton a ver.
+50328	Goldtusk Inn deki Rhan ka ya Batch of Bilewwing "Honey"sini ulaştır.
+50329	Matron Elsbeth Garrick, Stefania Denholm ve Wilona Blackwood u öldür.
+50330	Mektubu Dazar alor daki Horde Elçiliği nde bulunan Nathanos Blightcaller a ilet.
+50331	Kuzeyde Atal gral ın yakınında Rokor u bul.
+50332	Jani nin Nesingwary ye yapacağı şakayı sağ salim atlat. NEW_LINE  NEW_LINE Saurid kılığını kaybedersen başka bir tane için Jani ye dön.
+50340	5 tane Stolen Crate getir.
+50341	Nathanos Blightcaller ile konuş.
+50343	Mildenhall Meadery i incele.
+50349	Winterdeep Maden Kampı nda Chief Miner Theock u bul.
+50350	Head Chemist Walters ı Bul.
+50351	Civil Technician Alena yı ve Ordnance Handler Prim i bul.
+50352	45 Azerite Dust ve Walter s Chemistry Kit i topla.
+50353	7 Captured Farmers and Farmer Deal ı bul ve kurtar.
+50354	6 Briarback Lookout öldür.
+50356	Azerite yaratıklarının kaynağını saf dışı bırak.
+50358	Pixni Rustbomb ile Konuş.
+50359	4 Flowing Honey ve 4 Bubbling Mead öldür.
+50360	Archmage Khadgar ile Konuş.
+50363	8 tane Grazing Battle-Piglet topla.
+50364	Magni Bronzebeard ın mesajını ilet.
+50365	Stoklanan malzemeleri yok et.
+50367	10 tane Foul-Smelling Sample topla.
+50368	Bramblefist the Maddened ı yen.
+50370	Cleardawn, Ashton ve Webb ile ormanın derinliklerine seyahat et. 
+50371	Stormwind de Mathias Shaw ile buluş.
+50372	Tammy Tinkspinner ile konuş.
+50373	Archmage Khadgar ile konuş.
+50374	Magni Bronzebeard ın mesajını ilet.
+50375	Yakındaki çürümüşlüğün sebebini araştırırken Gonk ile git.
+50376	Coxswain Hook un hikayesini dinle.
+50377	Zajera the Huntress ı bul. Ardından Gonk un istilacı blood trollerden alacağı haklı intikama yardım et.
+50380	Dazar alor daki Horde Embassy de, Nathanos Blightcaller a mektup götür.
+50381	Başarılı bir şekilde Tik su s Hat ı çal. NEW_LINE  NEW_LINE Eğer saurid kamuflajını kaybedersen yenisini almak için Jani ye geri dön.
+50383	Mankrik ile beraber Briarback Kraul e gir ve Quilboar Tusk topla.
+50385	3 Drowned Altar arındır.
+50386	Forgotten Cove da ki 4 yapının içinde ne yattığını araştır ve mağlup et.
+50387	3 Stolen Supplies sandığı topla.
+50388	Drowned Captain i mağlup et.
+50389	Enchanting Siren i öldür.
+50391	Master Gunner Line nin hikayesini dinle.
+50393	Pterrordax Yumurtasını Pterror Rise taki Pa ku ya götür.
+50394	Pterrordax Egg i boş yuvaya yerleştir ve yumurtadan çıkmasını bekle.
+50395	Yavrunu ilk adımını büyük bilinmeyene doğru atarken izle.
+50401	Yavrunu bul ve yuvaya dönmeye ikna et. 8 tane Shimmerfin Flesh yedir.
+50402	Yavrunu neyin rahatsız ettiğini bul ve o sorunu çöz
+50404	Saurid Egg i Warbeast Kraal daki Beastlord L kala ya götür.
+50412	Kua fon u, Pterror Rise deki yuvasına dönmesini sağla.
+50415	Gonk a binerek Dazar alor a git ve orada Wardruid Loti ile konuş.
+50417	Mysterious Letter in yazarını bul.
+50418	"Sinker ın" "masalını" "dinle".
+50433	Dazar alor daki Baine Bloodhoof ile konuş.
+50444	Jani nin Amaki trollerine yaptığı eşek şakasından sağ kurtul.
+50445	Crimsonwood Servitor lardan 5 adet Control Charm topla.
+50446	Corlain de Witchrend i kullanarak Matronlar Ceridwen, Adeline ve Letitia yı öldür.
+50447	Corlain de, ölen Corlain lilerden 8 tane Personal Keepsakes topla.
+50449	Hocking s Plot ta meclisin ayakçılarını neyin engellediğini bul.
+50450	Hocking s Plot dan 7 Aromatic Onions topla
+50451	Hocking s Plot ta 8 Scavenging Boars öldür.
+50452	Sack of Aromatic Onions u Watchman s Rise da Lucille Waycrest e teslim et.
+50453	Pikeman s Ridge den 5 Blasting Powder topla ve Upper Corlain in eteklerindeki geçitte  Inquisitor Sterntide a getir
+50454	Pikeman s Ridge de Captain Goodspeed i ve 10 muhafızını katlet.
+50455	Corlain Aviary de Hexthralled Falconerlardan Falconer s Keyleri topla ve 5 adet Falcon Cage aç.
+50456	Corlain Aviary de Falconer s Whistle ını kullanarak 7 bewitching charmı yok et.
+50457	Upper Corlain kapılarındaki bariyerleri yıkmak için Ramparts Cannon u kullan..
+50466	Wildtusk u öldür.
+50476	Undercity de Warchief Sylvanas Windrunner a Rapor Ver.
+50481	Gorak Tul ile yüzleş.
+50493	Wrex i aramak için Crystallized Honey i kırıp aç.
+50504	Sam Robinson ı kurtar.
+50530	10 adet Captive Villagers i serbest bırak.
+50531	Bridgeport taki Flynn Fairwind ile konuş.
+50533	Crimson Demolisher ı kullanarak Crimson Forest daki güçleri yok et.
+50534	Bonerender ı öldür.
+50535	Overseer Nerzet i öldür ve onun güç taşını al.
+50536	Harabelerdeki Keeper statuesleri incele.
+50538	Warbeast Kraal yakınında Handler Bazkoji yi ara.
+50539	Heykeli incele.
+50542	Wulferd Fizzbracket ile Fizzsprings Resort da konuş.
+50544	Alanna Holton ile konuş.
+50550	Emperor Korthek i alt et.
+50553	Raimond s Laboratory de Raimond Mildenhall ile buluş.
+50561	Zul Ahjin deki Serrik e Sulthis  Stone u teslim et.
+50573	Priscilla s Orders ı Forgemaster Farthing ve Taskmaster Williams tan topla.
+50583	Upper Corlain de Kuzey, Güney ve Batı kapılarını aç.
+50584	Upper Corlain de 4 adet Blighted Horrors öldür.
+50585	13 witches of the Heartsbane Coven i Upper Corlain de öldür.
+50586	Upper Corlain de 6 adet Corlain Citizen s Journal incele.
+50588	Lucille Waycrest i Upper Corlain deki Waycrest Malikanesine kadar takip et.
+50590	Razgaji ye Maaz ın neyin peşinde olduğunu anlat.
+50593	20 Tideblood topla.
+50594	Writhing Grasps ı yok etmek için Abyssal Beacon ı kullanın.
+50595	8 adet Skeletal Sailors ve 4 adet Tidesage Seacallers öldür.
+50596	3 tutsak hafriyat işçisini kurtar.
+50600	Drustvar da 4 World Quest bitir.
+50608	15 K thir öldür ve 6 ayini boz.
+50609	Samuel Williams ı bul.
+50610	Abyssal Melodi nin üzerine 4 Focusing Rod yerleştir.
+50611	Abyssal Melody i yok et.
+50612	Sagehold’un dışındaki Brother Pike’e katıl.
+50614	6 tane Bound Seasurges katlet.
+50616	Binder Sa thress katlet.
+50617	Atul Aman da Vorrik le konuş.
+50621	5 köylüyü serbest bırak.
+50622	Deal Farmstead i sağ kurtulanları bulmak için araştır.
+50635	Rikal ile Fort Daelin de konuş.
+50640	Ornery Battleboar a binerek Briarback Kraul den ayrıl ve Mayor Roz a rapor ver.
+50641	Temple Grounds ta 10 Faithless Attacker öldür.
+50642	Northern Barrens de Saurfang i Bul.
+50644	Fort Daelin i istila eden naga güçlerinden 15 tane öldür.
+50645	16 Abyssal Fang topla.
+50646	Astranaar da Lorash ı Bul.
+50647	Lorash ile çalışarak Astranaar ı silahsız hale getir.
+50649	7 tane Tidal Beacon topla.
+50653	8 tane Stranded Battalion Soldier kurtar.
+50656	4 Temple Defender ı kurtar.
+50672	Fort Daelin in güney kıyısından 12 adet Zeth jir Harpoons topla.
+50674	Two Face Tom u mağlup et.
+50675	Nedly ile konuş.
+50679	Bir tane bozulmamış Zeth jir Channeling Rod bul.
+50687	Bu bozuk skycaller carcanet i tamir etmek için ihtiyaç duyulan kristalleri ve aletleri bul.
+50690	Moxie Botshiv ile konuş.
+50691	10 tane Restless Stone u bertaraf et.
+50694	20 adet Tideblood topla.
+50696	60 tane Lost Coin topla.
+50697	Doğu ve Batı Mağaraları açıldı!
+50698	5 tane explosive trap kur.
+50699	Algerson Lumber Yard daki Maynard Algerson ile konuş.
+50700	Thovas Base-Camp ta Explorers  League üyelerini Bul.
+50702	Jakra zet i Alt Et.
+50703	Baine Bloodhoof ile konuş.
+50704	12 adet Old Ship Parts bul.
+50705	3 tane Naga Channeler katlet.
+50706	Eventide Delta daki naga sayısını azalt.
+50733	Taelia ile Boralus daki Harbormaster s Office de buluş.
+50738	Warchief Sylvanas Windrunner ı Astranaar da selamla.
+50739	7 adet Sable Polecat kurtar.
+50740	Zoram gar Outpost da gerekli hazırlıkları yap.
+50741	Moxie ile konuş.
+50742	Sana yardım etmesi için üç hazine avcısı getir.
+50743	Lieutenant Bauer ile konuş.
+50745	Vorrick e, kutsal alanına kadar eşlik et.
+50746	Vorrik e dön.
+50748	Faithless tan 6 Volatile Lightning Bomb çal.
+50749	Battle Krolusk un bineğini çal ve Meerah a dön.
+50750	Sacred Sands ta Vorrik s Bulwark kullanarak 75 Faithless öldür.
+50751	Sanctuary of the Devoted ta Vorrik ile buluş.
+50752	The Skull of the First Skycaller, Rebirth Creed, Sethraliss Sight Stone, ve Blood of the Fallen Loa yadigârlarını kurtar.
+50753	Maokka için Mud Worm Meat bul.
+50754	Crimson Bouquet i Whitegrove Chapel daki Simple Gravestone un yanına yerleştir.
+50755	Brine Basin deki vahşi hayatı öldür ki Mekaru nun akbabaları beslenebilsin.
+50757	Feeding Pits te 8 Faithless öldür.
+50758	Whitegrove Chapel de Treadward s Ring i bulmak için Forgotten Bone ları ara.
+50759	Whitegrove Chapel da Lord Arthur Waycrest ile konuş.
+50760	Otur ve Whitegrove Chapel daki düğünü seyret.
+50761	Whitegrove Chapel da 10 adet Red Hand Assassin öldür.
+50762	Whitegrove Chapel da Lady Meredith Waycrest i bul.
+50763	Treadward s Ring i Watchman s Rise daki Lucille Waycrest e götür.
+50769	The Stormwind Extraction  senaryosunu tamamla.
+50770	Panzehiri Serrik e verin.
+50771	Çıkarma ekibi için 5 Azerite kaynağı tanımla ve işaretle.
+50772	Darkshore da Warchief Sylvanas Windrunner ı Bul.
+50773	20 murloc öldür.
+50774	Earl-E ye yardım et.
+50775	20 Pile of Sand topla.
+50777	12 Defector ü Uzaklaştır.
+50778	Bound Tempest and Enthralled Tidefury öldür.
+50780	Rod of Tides ı geri al.
+50781	Path of Storms u açmak için Rod of Tides ı kullan.
+50783	Wavespeaker Reid i öldür.
+50784	Tideguard Victoria ya eşlik et.
+50787	Lady Ashvane nin ihanetini Katherine Proudmoore a göster.
+50788	6 tane Ashvane savaşçısını Unity Caddesi nde öldür.
+50789	4 adet Smoking Payloads ı Unity Square de yok et.
+50790	Bir Proudmoore Charger a bin ve Priscilla Ashvane i takip et.
+50791	Kua fon u alarak sakinleştir.
+50793	Mağaraların yakınlarında Nedly ve Moxie ile buluş.
+50794	Scorched Sands Outpost ta Razgaji yi bul.
+50795	Unity Square de 4 Proudmoore Guard la konuş.
+50797	Maokka yı ve diğer Tortollan ları Windswept Coast ta ziyaret et.
+50800	Alliance pususunu alt et.
+50801	The Slough da Kua fon nu bulup tehlikeden kurtar.
+50802	10 Irontide Pirate öldür.
+50803	12 Irontide Coin Bag topla.
+50808	Zuldazar da Baine Bloodhoof ile konuş.
+50810	10 adet işçiyi serbest bırak.
+50812	Kargaşayı incele.
+50814	6 Wetshell Turtle Topla.
+50817	Jenoh için 15 kobra gönder.
+50818	Çöl Flütünün sahibini bul.
+50823	Saurfang ve Sylvanas ile Zoram gar Outpost da buluş.
+50825	Shrine of Storm da Lord Stormsong u mağlup et.
+50834	Goblinleri tehlike konusunda yar.
+50835	Zolani ile Grand Bazaar da buluş.
+50837	Patlayıcılar kullanarak Alliance ordusunu Darkshore dan def et.
+50878	Ağaçlardaki Sentry Owls ları ortadan kaldır ve Darkshore un öfkeli fulborglarını öldür.
+50879	Burning Ancient ı alt et.
+50880	Darkshore da ki Alliance güçlerini dağıt.
+50881	Zolani nin raporunu Golden Throne da bulunan Habutu ya teslim et.
+50897	6 parça goblin machinery yok et.
+50901	Sezahjin de Jani nin eşek şakasından sağ çık. NEW_LINE  NEW_LINE Saurid görüntünü kaybedersen, yenisi için Jani ye geri dön.
+50903	Master Ashton ı bul.
+50904	Atul Aman da Bladeguard Kaja ve Warguard Rakera yı bul.
+50907	Depleted Soul Shard ı güçlendirmek için ruhları güzsüzleştir.
+50908	Force Commanders Ogarth and Durmok u katlet.
+50909	Bize 15 adet Rebel Weapon bul.
+50910	Tepeleri Forsaken Keenblades den temizle.
+50911	10 Horde askeri öldür.
+50912	Ignition key i bul.
+50913	Akunda s Shrine da konuş.
+50929	6 crate ten Azerite topla.
+50932	Court of Zak rajan ın dışında Kenzou yu bul.
+50933	Imperial Guard a ne olduğunu keşfet.
+50934	Kayıp Zandalari leri araştır.
+50946	Tacha nın Mystery Stew unu Torka ya teslim et.
+50951	Kuzey sahilindeki tortollan lara Akunda nın mesajını ilet.
+50953	Greenstalker ı alt et.
+50954	Sonsuza Dek Zandalar senaryosunu tamamla.
+50955	Calico McGee yi ortadan kaldır.
+50956	Parayı kabul et.
+50960	Drustvar da Lucille Waycrest e, Sweete s Orders götür.
+50963	Royal Chambers of Dazar alor da Princess Talanji ile konuş.
+50965	8 adet Ashenwood Relic topla.
+50967	Amalie Oakseeker ı bul.
+50970	Everliving Branch ı güçlendir.
+50972	Boralus Harbor daki Genn Greymane e rapor ver.
+50973	Magni Bronzebeard dan Hearth of Azeroth u güçlendirmesini iste.
+50976	5 tane Xal vor glyph i aktif et ve Aiji the Accursed ü alt et.
+50978	Richard Tornsail ı öldür.
+50979	Atrivax Gel den 10 örnek topla.
+50980	Territorial Hydra yı öldür.
+50988	Anyport da Cesi Loosecannon ile buluş.
+50990	Booty Bay de Dr. Oglethorpe a lezzetli tavuğu götür.
+51001	Anyport un yakınındaki gemi harabesinden 5 Smuggled Good topla.
+51018	Anyport ta Xun Xun Sweetflower a neye sahip olmak istediğini sor.
+51019	Miranda the falcon ı özgür bırak.
+51020	Anyport taki Gary Cofferdam ı katlet.
+51053	First Mate Jamboya nın Madalyonunu, onun geçmişinin hayalini görmek için kullan.
+51054	First Mate Jamboya yı özgür kıl.
+51055	Quartermaster Tulmac, Gunner Bosanya, ve Jukanga the Snitch i serbest bırak.
+51056	First Mate Jamboya nın madalyonunu onun geçmişini görüntüleyebilmek için kullan.
+51057	8 Pillaging Canoes i yakmak için Undying Torch kullan.
+51059	Jamboya nın sandalıyla Golden Isle a git.
+51060	12 Cursed Treasures of Zem lan topla.
+51061	Putları sunağa koy ve onları yok etmeyi dene.
+51062	Jamboya nın teknesini kıyıya sür ve korsanlara Camp Lastwind e doğru öncülük et.
+51069	Darkspeaker Jo la yı kes.
+51071	Bir Dazarian Empress i Katlet.
+51072	Bir Prime Thumpknuckle öldür.
+51078	Yenik düşen Azerite Infused Elemental lerden Azerite absorbe et.
+51085	Dark Chronicler ı öldür.
+51087	Dark Chronicler ı Yok Et.
+51088	Brann e Nazmir de ki Fort Victory e kadar eşlik et.
+51089	Tojek i avla.
+51091	Nol ixwan ve Ten gor u öldür.
+51101	Zeb ahari de, Zolani ile buluş.
+51110	Brennadam a bakan tepenin zirvesinde Hobbs u bul.
+51111	Royal Chambers taki Nathanos a geri dön.
+51129	Victory Fort tan Nazmir deki Zalamar a gitmek için yarasaya bin.
+51134	Alphine Rise daki Awakened Dead lerden bir Pristine Run-Etched Bone topla.
+51139	Tojek in peşine düş.
+51140	Altını Nedly e götür.
+51142	Alliance Docks daki 8 Thieving Snappers ı öldür
+51144	Bundle of Warm Furs u Hatherford daki Dandy Jones a teslim et.
+51145	Jani nin ayininden sağ çık.
+51149	Paketi Dockmaster Tyndall a teslim et.
+51150	Fort Victory askerlerinden 7 Dog Tag getir.
+51151	Thovas Base-Camp taki Explorers  League üyelerini bul.
+51159	Topu naklet.
+51161	Za roco the Grifter ı bul ve öldür.
+51162	Taz raka the Traitor ı bul ve öldür.
+51164	Sevriss i öldür.
+51165	Sandscout Vesarik i bul ve öldür.
+51167	Blood Witch Pakkala yı öldür.
+51168	The Fall da 10 tane Zala mar Zealot öldür
+51169	Fort Victory e gitmek için yarasa kullan.
+51170	Shatterstone Limanını ele geçir.
+51177	Kaptan Conrad ın ilerleyişini öğren.
+51190	Talanji s Rebuke de 8 Forsaken ve 8 Zandalari öldür.
+51191	8 yaralı denizciyi iyileştir.
+51192	Batıktan malzemeleri toplayın.
+51193	Alan Hawkins den Degdod un çekicini al.
+51199	Foxhollow Woods un kıyısında Abbey Watkins ile tanış.
+51200	Millie yi bul ve kurtar.
+51201	Esir olan Zandalari Troll ü ile konuşarak Alliance gemisinin nasıl battığını öğrenmeye çalış.
+51203	10 Feral Razorclaw öldür.
+51204	Razorclaw Alpha yı katlet.
+51205	8 Bilge Rat topla.
+51207	8 Ettin öldürmek için Flour Bomb kullan.
+51208	10 adet Grain Sack topla.
+51209	Grokkfist i Öldürmek İçin Pack of Rats i Kullan.
+51211	Chamber of Heart a git ve Azeroth ile konuş.
+51214	Water Bucket, Sack of Flour, ve Log topla ve Marie Davenport a götür.
+51215	6 Mountain Goat Milk topla.
+51217	Yarsel ghun u bul ve öldür.
+51218	Paketi Marie Davenport a teslim et.
+51220	6 tane Seawrench i bertaraf et.
+51221	Lithia Costcutter ı ortadan kaldır.
+51222	10 adet Sea Mines topla.
+51224	Gallywix ve Eitrigg e Gallywix in War Trike ında eşlik et. NEW_LINE  NEW_LINE Eğer Gallywix ve Eitrigg den ayrı düşersen, onları Anyport da bulabilirsin.
+51226	8 Brinefang Saurolisk öldür.
+51229	Alliance sancağını dik ve Vol dun da üssünü kur.
+51231	İlerdeki şekli incele, sonra Eitrigg ve Gallywix i koru.
+51233	Eitrigg ve Gallywix i dağlara götür.
+51234	Drustvar da üssünü kurmak için Krazzlefrazz Outpost taki goblin cihazlarını kullan.
+51240	Anchorface i Anyport yakınlarındaki sularda katlet.
+51244	Altar of Rot da Titan Keeper Hezrel i bul.
+51246	10 adet Shipwrecked 7th Legion öldür.
+51247	Alliance dan istihbarat al.
+51248	5 böcek topla.
+51249	Derelict Hexopod lardan 7 adet yengeç yumrusu topla.
+51251	Cellar Crawler lardan 8 tane Spider Silk topla.
+51278	Dead Ringer ı ruhlarla doldur.
+51279	Zul Nazman da 15 Nazmani troll ü öldür.
+51280	Zul Nazman da 8 Offering to G huun yoket.
+51281	Nazmir deki Zul Nazman da Brann Bronzebeard ile buluş.
+51282	Nazmir deki Tul vor da Captain Conrad ile buluş.
+51283	Grand Admiral Jes-Tereth ile görüş ve Vol dun a git.
+51286	Alliance ın tahliye çabalarını durdur.
+51308	Önce Commander Wyrmbane in savaş planını dinle, ardından Zuldazar daki Talanji s Rebuke e seyahat etmek üzere Grand Admiral Jes-Tereth ile görüş.
+51309	Xibala daki sahilden 9 tane Firelands Slag topla.
+51310	6 Orc Raider öldür.
+51314	8 Sacks of Grain topla.
+51319	Tempest Gate i aç.
+51320	Tidemother s Wrath, Tidemother s Radiance ve Tidemother s Pride ı yok et.
+51331	Xibala daki köstebek makinelerinden 4 adet Dark Iron Earthbreaker kurtar.
+51332	Zuldazar da Trade Prince Gallywix e rapor verin.
+51335	Marie nin fırından yeni çıkmış kurabiyelerinin ve sütün tadını çıkar.
+51339	8 adet Oily Sandbill Piper ı temizle.
+51340	Eitrigg ve Dread-Captain Tattersail ile konuş.
+51341	Katherine Proudmoore ile resmi bir görüşmede Jaina Proudmoore a eşlik et.
+51343	Üç parşömeni topla.
+51349	Vol dun da Sergeant Ermey i bul.
+51350	Bonetrail Gulch da 8 tane Prickly Pear Roots topla.
+51351	Bonerail Gulch da 8 adet Saltspine Barbs tople.
+51352	10 Venture Co. Flame Starter ı ve 2 Venture Co. Oiler ı ortadan kaldır.
+51353	Cave of Ai twen de Loraja yı arayıp bul.
+51355	Reef Breaker ı yok et.
+51356	Corlain den Sister Lilias ın kafasını getir.
+51357	Nisha için bir silah seç.
+51358	Lindel the Snatcher ve Silent Boris i öldür.
+51359	Unstable Magma yı stabilize et, ardından 200 Bİlgewater Goblin i yenmek için Magma Elemental i kullan.
+51364	Nisha ın aracını bul ve güvenliğe ulaştır.
+51366	Panzehir i Vorrik e uygula.
+51367	Norwington Estate in batısındaki Raging Earthguard ı öldür.
+51368	Hornet i öldür.
+51369	Sanctuary of the Devoted a uçarak git.
+51371	50 Adet Seaweed topla.
+51384	Quartermaster Ssylis i Anglepoint Bay de öldür.
+51386	Ai twen i sür ve Venture Companies in birliklerini katlet.
+51389	Private James i bul ve onu esir tutanlardan kurtar.
+51390	Falconhurst ün etrafında Crimson Cutthroats u öldür.
+51391	Temple Grounds da 12 tane Faithless saldırganı öldür.
+51394	Sanctuary of the Devoted üzerindeki Faithless saldırısını engelle.
+51395	Private James ile konuş ve Vorrik s Stone un önemini açığa çıkar.
+51397	Kazı alanına engel olmak için Goblin Mining Machine i kullan.
+51400	Azeroth un hediyesini al.
+51401	Taelia ile Brennadam da  buluş.
+51402	High Commander Halford Wyrmbane e rapor ver.
+51403	Stormwind City e geri dön.
+51407	Nazjatar tan emirleri topla.
+51418	Talanji s Rebuke daki sandalı kullanarak Xibala ya seyahat et.
+51421	Shadow Hunter Ty jin e Trigarde Sound a kadar eşlik et.
+51426	Rusted Vault u İncele
+51427	Adağı Ai twen e sun.
+51430	4 V-300 serial plate Topla.
+51435	Pirate Garb sandığından korsan kıyafetini al ve korsan kılığına bürün.
+51436	Shadow Hunter Ty jin i takip et ve First Mate Owings ile buluş.
+51437	6 fıçı Grog u berbat et.
+51438	Horde Banner ı Plunder Harbor a dik.
+51439	Fogsail Cannoneer lardan 3 adet Fogsail Cannonballs topla.
+51440	Üzerinde oynanmış emirleri Boatswain Taryn, Quartermaster Killian, ve Navigator Swink e götür.
+51441	Goblin-Tasarımı El Topunu 3 Fogsail Sandalını batırmak için kullan
+51442	Captain Rhenik i öldür.
+51443	Warchief Sylvanas Windrunner dan görevini al.
+51472	Zallestrasza yı ritüeli yaparken koru.
+51476	Charles Davenport ile konuş.
+51487	Sister Adrianna, Brother Darrel ve Sister Cecilia ya kayıp filoyla ilgili bilgi almak için sorgula.
+51488	Brother Alen ı kayıp donanmayla ilgili sorgula.
+51489	Stormsong Valley deki Galeheart a git.
+51490	House Stormsong kuvvetlerini kuşatmayı kaldırmaları için ikna et.
+51492	Volatile Rat lardan 100 Gunpowder topla.
+51493	Shepherd Milbrooke ile konuş.
+51499	Silithus ta Magni Bronzebeard ile  buluş. Silithus a ulaşmak için Zuldazarda bulunan geçidi kullan.
+51504	Sprucewood daki Charles Davenport a bir kutu kurabiye götür.
+51526	Zuldazar da High Warlord Cromush a rapor ver.
+51532	Dread-Admiral Tattersail ile konuş.
+51536	Seawatch Point i sağ kalanlar için ara.
+51538	
+51539	Baine i ihanet hakkında uyar.
+51540	5 Bot Buster Bomb topla.
+51543	6 Mountain Sapling Topla.
+51544	Horde gemisindeki topları etkisiz hale getir.
+51545	Reef Breaker ı yok et.
+51547	Rindlewoe yu Fallhaven dışında alt et.
+51552	Brennadam Square meydanında Sergeant Calvin i bul.
+51554	Notu Leo Shealds a ulaştır.
+51555	Talanji s Rebuke deki Dennis Grimtale ile Konuş.
+51556	Dire Hills Lodge da Patrick Eckhart ile konuş.
+51557	Deadwash da Leo Shealds ile konuş.
+51568	Unsanctified Storm Silver Ore çıkar, bir demirci ocağı kullanıp eriterek Unsanctified Storm Silver Ingotlarına  dönüştür, daha sonra bir deniz rahibi tarafından kutsanmasını sağla.
+51569	Bir bölge seçmek için the Zandalar Harekat Haritasını kullan.
+51570	Zuldazar da Kelsey Steelspark a yardım et.
+51571	Nazmir de Brann Bronzebeard a yardım et.
+51572	Vol dun daki Alliance güçlerine yardım et.
+51573	Razgaji yi, Mojambo ile buluşurken koru.
+51574	8 tane Pricklevine Juice topla.
+51587	Rexxar a eşlik et.
+51589	Tiragarde Sound a yelken aç.
+51590	Tiragarde Sound un merkezinde Nathanos ve Lilian ile buluş.
+51591	Timberfell Outpost da 10 tane Roughneck öldür.
+51592	Bridgeport un etrafından 7 adet Lengths of Chain ve 7 adet bolts of Sail Canvas topla.
+51593	Bridgeport sakinlerini gizlice dinle.
+51594	Lilian Voss ile Ashvane Foundry de görüş.
+51595	Ashvane Foundry yakınındaki Pile of Ashvane Crates üstünde Lilian s Torch u kullan.
+51596	8 sandık Ashvane Explosives bul.
+51597	Ashvane Explosives Formula ve Gunpowder Manufacturing Guide ı ele geçir.
+51598	Ashvane Foundry de 15 işçiyi katlet.
+51599	8 Barut Fıçısını Bridgeport un güneybatısında gizli bir yere yerleştir.
+51601	Stolen Horse u kullanarak 10 Bridgeport Guards ve Captain Stone u peşine tak. Onları kasabanın güneybatı köşesine götür.
+51602	8 Sandworn Blade i geri al.
+51643	Toplardan birini kullanarak 40 Kul Tiran askerini öldür.
+51663	8 adet Jambani stoğunu yok et.
+51668	Mojambo yu Katlet.
+51674	Bir Fading Umbral Wand bul ve onunla Warfang Hold un etrafındaki 5 alevi söndür.
+51675	Captain Ara ve 12 Storm s Wake Footmen katlet.
+51677	King Rastakhan ı iyileştirmede yardımcı olmak için Jol un talimatlarını uygula.
+51678	Rastakhan s Might amiral gemisinde Windcaller Ula jan ın kellesini al.
+51679	Rastakhan s Might gemisinde ipucu ara.
+51680	Jol the Ancient ve Jamil Abul housin ile konuş.
+51691	Warfang Hold dan 6 Frightened Peon kurtar.
+51696	Savaş borozanını çal ve Stormsong valleydeki Warfang Hold un kontrolünü geri al.
+51711	Bir Dinamit Paketi edin ve 16 Warfang Miner ile 4 Mine Technician i öldürmek için kullan.
+51712	Prototype Shredder kullanarak 30 Horde Soldier öldür ve 6 Warfang Building yak.
+51714	Wind s Redemption da Spymaster Mathias Shaw ile buluş.
+51715	Zandalar Operasyon Haritası nı kullanarak ayak basacak bir yer seç.
+51717	Four Stingers da Rikati ile buluş.
+51718	12 tane Bilewing Stinger topla.
+51720	Grizz s Key ini Prototype Shredder MK-03 te dene.
+51723	10 Warfang Lumberjack öldür.
+51724	Energized Core u al.
+51726	6 Captured Miner ı serbest bırak.
+51728	6 Lumber Pile ı ve 2 Siege Tower ı yak.
+51750	Jonah Blightblood, Adsila Darkmane ve Zeryna Wrin i öldür.
+51751	General Blackstone u Öldür.
+51752	Chief Engineer Grizz i öldür.
+51756	6 Mine Technician öldür.
+51771	Arcanist Valtrois i bir göreve gönder
+51772	Torka ile görüş.
+51773	Randall Redmond ile buluş.
+51775	Norah ile konuş.
+51784	Nathanos Blightcaller ile Barrowknoll Cemetery nin dışında buluş. NEW_LINE  NEW_LINE Dread-Admiral Tattersail seni Drustvar a götürebilir.
+51785	Barrowknoll Mezarlığında 4 Mezar Levhasını İncele.
+51786	8 tane Enraged Spirit öldür.
+51787	10 tane Gravebloom topla.
+51788	Brutus Thornton dan Valentine s Key i al.
+51789	Nathanos Blightcaller a, Valentine ın bedenini ele geçirmesinde yardım et.
+51795	Lordaeron Muharebesini tamamla.
+51796	Lordaeron Muharebesini tamamla.
+51797	Stormsong da Warfang Hold içinde Rexxar ile buluş.
+51798	Rexxar ın bir tidesage i takip etmesine yardım et.
+51803	Yerleşeceğin yeri seçmek için Kul Tiras seferberlik haritasını kullan.
+51805	Val kyr Horn da 20 Kul Tiran Builder ı ya da Tidesage Recruit ü korkut.
+51810	Kaptan Hartford u ortadan kaldır.
+51818	Captain Malia yı katlet ve Book of Forbidden Magics i Commander Augustine den geri al.
+51819	10 Alliance ve Kul Tiran askerini Sagehold da katlet.
+51829	Withering Gulch de anahtarı Ranah a teslim et.
+51830	Zelling s Void Font u Port Fogtide da düşmanları katlederek doldur ve yıkıcı rüzgar büyüsünü serbest bırak.
+51837	Marshal Valentine nin yerini saptamak için Zelling Bul.
+51845	Lord Stormsong ile yüzleş.
+51851	Lucille Waycrest i Upper Corlain deki Waycrest Malikanesine kadar takip et.
+51852	Upper Corlain de Waycrest Manor a doğru Lucille Waycrest i takip et.
+51870	Port of Zandalar daki Captain Rez okun a görün.
+51881	Cracked Mine Sweeper ı Chillstone Mine ın hemen dışındaki Felecia Gladstone a götür.
+51883	Grizz s Lunchbox ı Felecia Gladstone a ver.
+51888	Keşif gezisini başlatmak için Captain Rez okun ile konuş ve Uncharted Island ı keşfet.
+51903	Boralus da Flynn Fairwind e rapor ver.
+51904	Keşif gezisine başlamak için Flynn Fairwind ile konuş ve Uncharted Island ı keşfet.
+51918	Kul Tiras gruplarıyla en az Friendly reputation kazan.
+51961	Zandalar Seferberlik Haritasını üs kurulacak yeri seçmek için kullan.
+51967	Boralus Harbor da bulunan Wind s Redemption daki Halford Wyrmbane in yanına dön. Desha Stormwallow seni oraya bırakabilir.
+51968	Wind s Redemption daki Halford Wyrmbane in yanına dön. Daria Smithson seni oraya götürebilir.
+51969	Boralus da bulunan Wind s Redemption daki Halford Wyrmbane in yanına dön.
+51979	Yerleşeceğin noktayı seçmek için Kul Tiras seferberlik haritasını kullan.
+51980	Jabra kan the Poacher ı Öldür.
+51984	Banshee s Wail deki Nathanos Blightcaller a geri dön. Erul Dawnbrook seni oraya bırakabilir.
+51985	Banshee s Wail deki Nathanos Blightcaller a geri dön. Anyport taki Swellthrasher seni oraya bırakabilir.
+51986	Banshee s Wail deki Nathanos Blightcaller a geri dön. Muka Stormbreaker seni oraya bırakabilir.
+51990	8 tane (çıkmasına az kalmış) Pterrordax Egg topla.
+51991	Rainshu nun karnını doyur.
+51992	Royal Chambers of Dazar alor ın içinde Princess Talanji ile konuş.
+51993	Princess Talanji ile Royal Chambers of Dazar alor da konuş.
+51998	8 adet Partially-Digested Direhorn Flesh topla.
+52012	Sığınağa Kurt Takviyesi  görevini tamamla.
+52018	Zuldazar da Baine Bloodhoof ile konuş.
+52019	Zuldazar da Baine Bloodhoof ile konuş.
+52023	Baine Bloodhoof ile konuş.
+52024	Baine Bloodhoof ile konuş.
+52026	Vol dun a yelken açmak için Grand Admiral Jes-Tereth ile konuş.
+52027	Halford Wyrmane ve Shandris Feathermoon ile stratejiyi tartış.
+52028	Vol dun da Horde faaliyeti ara.
+52029	Nazlara yı katlet ve bildiklerini öğren. 
+52030	Daha fazla Horde izi ara.
+52031	Shandris e Elisa Veilsong ve Daxx Bombhand e suikast düzenlemesinde yardım et, sonra ne bildiklerini öğren.
+52032	Horde faaliyeti aramaya devam et.
+52033	Highroad Pass yakınında Rime Huntress ı alt et.
+52034	12 tane Zandalari Sürgünü öldür.
+52035	15 Zandalari Su Testisi ve 15 Zandalari Yemeği topla.
+52036	Kayıp Alpakayı bulmak için Ultra-Safe Electrified Alpaca Lasso yu kullan ve ardından Explosioneer Zoidfuse a geri getir.
+52038	Çöl boyunca güneybatıya doğru ilerlemeye devam et.
+52039	8 Uzaktan-Kumandalı Ölümbombasını göm.
+52040	Arlethal Sunwatcher ı Shandris ile öldür.
+52041	Vol dunda Halfor Wyrmbane e rapor ver.
+52042	Explosioneer Zoidfuse ile Vol dun Patlama Protokolünü başlatmak için konuş.
+52058	Stormwind Keep e gidip Kral Anduin Wrynn e rapor ver.
+52060	İlave talimatlar için Spymaster Mathias Shaw a rapor ver.
+52062	Astranaar da Captain Delaryn Summermoon a rapor verin.
+52065	Felicia Gladstone ile Beacon Hill de konuş.
+52067	Eckhart Lodge da Patrick Eckhart ile konuş.
+52068	Lieutenant Bauer la Seebreeze Landing te konuş.
+52069	Deadwash da Leo Shealds ile konuş.
+52070	Seabreeze Village da Lieutenant Bauer ile konuş.
+52072	Astranaar da düşmüş askerlerin bedenlerini onurlandır.
+52073	Yardımını istemek için Krag wa yı çağır.
+52074	Erzakları Gol Koval daki Ranger Encampment a götür.
+52075	8 Vengeful Bone yen.
+52116	Ashenvale da Malfurion u bul.
+52118	Bir Sturdy Axe al, çevredeki Saplinglerden 5 Freshly-Chopped Wood topla.
+52122	Thomas Zelling i bulmak için Lilian Voss ile birlikte git.
+52127	Horde için Wolf s Den i ele geçir.
+52128	Cyrus Crestfall ile konuş ve Ferry Pass al.
+52129	Rozzy ile konuş.
+52130	Coxswain Hook un hikayesini dinle.
+52131	Princess Talanji i Dinle.
+52132	6 pirate Rum Stash yok et.
+52139	Great Seal ın içinde Princess Talanji ile konuş.
+52146	Geri dönmek için Guzbert Gizmoflank ve Kelsey Steelspark ı bekle.
+52147	Nazmir e yelken açmak için Grand Admiral Jes-Tereth ile konuş.
+52148	Harlan Sweete i Freehold Zindanı nda öldür.
+52149	Arom s Sand daki heykelin ordaki seremoniye yardımcı ol.
+52150	Shandris Feathermoon un planını dinle.
+52154	Alliance liderlerinin planı tartışmalarını dinle
+52156	Blood Trolllerden, 6 Tortollan esirini kurtar.
+52158	Torga s Rest te 15 blood troll ve müttefiki katlat.
+52170	Horde Missive ini Captain Areiel den al.
+52171	Necropolis teki Bwonsamdi Offerings, Armory Supplies, Food Cache ve Medicinal Supplies ları yak.
+52172	Necropolis te 12 Horde askeri öldür
+52173	Grand Admiral Jes-Tereth le konuş ve Xibala ya git.
+52183	Plunder Harbor da Nathanos Blightcaller ile buluş.
+52184	Stormsong Monastery de Compass of Clarity, the Curio of the Depths, the Key of the Sea yi topla.
+52185	Boralus Portalını kullanarak Stormsong Monastery deki Thomas Zelling ile tanış.
+52186	The Siren s Daughter ve The Valorous Rose da 12 Proudmoore Guard katlet. NEW_LINE  NEW_LINE Hobart Grapplehammer seni gemilerden uçurabilir.
+52187	The Siren s Daughter da Captain Gastrod and Guard-Commander Trunksal ı, the Valorous Rose da Helmsman Miria yı katlet. Hobart Grapplehammer seni gemilerden uçurabilir.
+52188	Stormsong Monastery de 5 Cilt Tidesage Research topla.
+52189	Stormsong Monastery de 8 Tidesage Archvist ya da Tidesage Summoner katlet.
+52190	Stormsong Monastery den Abyssal Scepter i almak için Zelling e yardım et.
+52191	Proodmore un kuvvetlerinin sonuncusu için Nathanos Blightcaller a yardım et.
+52192	Nathanos Blightcaller ile konuş ve Zuldazar a dön.
+52197	Malfurion ve Delaryn ile Darnassus ta tekrar bir araya gel.
+52203	Gallywix in Emirlerini topla.
+52204	4 adet Bilgewater Fracker ı yok etmek için Magister Umbric in Void Shard ını kullan.
+52205	12 Bilgewater goblin öldür ve void elf müttefikler çağırmak için Void Tear lar aç.
+52208	Zo bal Ruins in dışında Shandris Feathermoon ile buluş.
+52210	Captain la konuş.
+52219	Nazmir deki Collapsed Tunnels da Keeshan la buluş.
+52222	Horde için Stonefist Watch ı ele geçir.
+52234	Gizlenmiş 8 Druids of the Claw ı bul.
+52240	Devasa Shredder ı mağlup et.
+52241	Magister Umbric s Void Portal kullanarak Atal Dazar da kendisine katıl.
+52242	Onu nun acısının kaynağını bul.
+52245	Blackwood Den de yardım isteyenleri bul.
+52247	Trade Prince Gallywix i bul ve peşine düş.
+52256	Wildbend River da Malfurion u bul.
+52257	Düşmanımız Horde u katletmek için Ancient lara katıl.
+52258	Hazel için deniz kabukları topla.
+52259	Gallywix in birliğini dağıt.
+52260	Trade Prince Gallywix i katlet.
+52261	Boralus taki Wind s Redemption da bulunan High Commander Halford Wyrmbane ye dön.
+52276	Swiftwind Post u Horde için ele geçir.
+52279	Kaldorei güçlerini Darnassus ta bir araya getir.
+52281	Swiftwing i Isle of Fangs e sür.
+52282	Halford ile Zandalari deniz filosunu zayıflatma planının üzerinden geç.
+52283	4 Remote-Detonation Deathbomb u Breath of Pa ku nun altına yerleştir.
+52284	Zandalari and Mogu lardan 6 Naval Record ele geçir.
+52285	Kelsey nin Enlarged Miniaturized Submarine ini Warport Rastari ye sür.
+52286	Warport Rastari deki anagemiye 3 Remote-Detonation Deathbomb yerleştir.
+52287	Spymaster Stormhorn, Spymaster Bloodsnarl ve Spymaster Bilespreader ı öldür.
+52288	Portal Orb u 6 Horde Emissary si üzerinde kullan.
+52289	Zuldazar da bulunan Xibala da Halford Wyrmbane ile buluş.
+52290	Blood trol kılığına girmek için Magister Umbric ile konuş.
+52291	Swiftwing le Gral s Call a uç.
+52294	Frogmarsh taki Blood Troll kampından Çalınmış Krag wa Putlarını topla.
+52305	Uçmaya hazır olana kadar Kua fon ile ilgilen.
+52308	Allience lideri ile plan hakkında görüş.
+52314	Horde için Mudfisher Coast u ele geçir.
+52320	Windfall Cavern i Horde için al.
+52428	The Heart of Azeroth u güçlendirmek için Azerit absorbe et.
+52431	Burnsy the Blade, Wiley Jaki ve Skullcrusher Cotner ı öldür.
+52436	Furbolg ları Blackwood Den den dışarı at.
+52437	Sylvanas ı Nazj vel e kadar takip et.
+52438	Wildbend River daki savaşa katıl.
+52439	Iron Stores a erişmek için Heavy Iron Key i kullan.
+52443	Yerleşeceğin son noktayı görmek için Zandalar Seferberlik Haritasını kullan.
+52447	Başka bir uçuş denemesi yapmak için hazır olana kadar Kua fon ile ilgilen.
+52473	Zuldazar a yelken açmak için Grand Admiral Jes-Tereth ile konuş.
+52477	Ayame nin peşine düş ve kafasını elde et.
+52479	Hillcrest Pasture u Horde adına ele geçir.
+52480	Ayame nin peşine düş ve kafasını elde et.
+52481	Drustvar daki Arom s Stand da Lucille Waycrest ile buluş.
+52482	Ulfar ile Ulfar s Den de konuş.
+52483	Gol Osigr de Drust skeletonlardan 4 Intact Drust Bone ve 9 Ancient Sinew topla.
+52484	6 adet Drust Runestone bulmak ve toplamak için Dowsing Stone u Gol Osigr de kullan.
+52485	Korvash tan Gol Osigr de Korvash s Skull ı al.
+52486	Waycrest Manor derinliklerindeki Korvash s Skull ı güçlendir.
+52489	Swiftwing ile Falstad ve Shandris e Great Sea ye kadar eşlik et.
+52490	Banshee s Wail de Blood Prince Dreven e ait bir şeyler ara.
+52491	Gunpowder, cannonballs ve torch bul ardından topları ateşle.
+52492	Horde gemilerini bombalarken Falstad ve Swiftwing e katıl.
+52493	Crimson Squall da bulunan 12 Horde crew i öldür.
+52494	5 San layn Crystal i yok et.
+52495	Blood Prince Dreven i öldür.
+52496	Boralus a dön ve High Commander Halford Wyrmbane e rapor ver.
+52544	100 adet War Resource topla. War Resource görevler ve hazine sandıkları da dahil olmak üzere birçok kaynaktan elde edilebilir.
+52654	Wind s Redemption da Halford Wyrmbane ye rapor ver.
+52746	100 War Resources topla. War Resources görevler ve hazine sandıklarını da dahil birçok kaynaktan toplanabilirler.
+52749	Zuldazar da Banshee s Wail in güvürtesinde Nathanos Brightcaller a rapor ver.
+52750	6 tane Vigil Hill çiftçisini askere al.
+52764	Great Sea ye yelken açmak için Dread-Admiral Tattersail ile konuş.
+52765	Okyanusun dibine dalmadan Hobart Grapplehammer ile konuş ve sonra dalış maskeni test et.
+52766	Görünüşe bakılırsa, doğuya doğru bir yerlerde enkazı bulacaksın.
+52767	Gemi enkazının kaptanını bul ve kimliğini belirle.
+52768	Bulunduğun mevkinin kuzeydoğusunda gemi enkazı ara.
+52769	Yakınlardaki üç geminin kaptanlarının kimliklerini belirle.
+52770	Hobart ile iletişim problemlerini çözmek için 10 bioluminescent creature öldür.
+52772	Marshal Valentine nin gemi enkazını sualtı resifi yakınında bul.
+52773	Daenistrasz ı katlet.
+52774	Marshal M. Valentine ın cesedini ve onun gemisinde seyahat eden diğer denizcilerin cesetleriyle beraber al ve götür. 
+52787	5 tane Evermoss Clumps topla.
+52788	Gral s Call un güvertesinde 10 Zandalari askeri katlet.
+52789	Advisor Ko jan ı katlet.
+52790	Gral s Call un güvertesinde Shandris Feathermoon ile buluş.
+52793	Darion, Lorraine ve Mallory i bul.
+52795	Sourtooth u Katlet
+52796	8 Saurolisk Mağlup Et.
+52800	Overseer Korgus dan Tol Dagor Master Key i al.
+52806	Blackwood Den de Lady Sylvanas Windrunner ile buluş.
+52855	Warbeast Kraal daki Tüccar Alexxi için 1 Crown of Torcali ve 8 Glowfly Incandescence topla.
+52857	ilacı Direhorn una ver.
+52876	War Gore u bul ve öldür.
+52944	Horde öldür ve Drustvar içinde bir Air Supply Crate lootla.
+52958	Alliance öldür ve Drustvar içinde bir War Supply Cache lootla.
+52967	Lor danel de Saurfang i bul.
+52970	8 Lor danel li sivili yakala.
+52971	Caranne Briarbow ve Ariel Stagguard ı öldür
+52973	Malfurion Stormrage i Lor danel de bul.
+52974	8 Lor danel sivilini kurtar.
+52975	Gormok Axefall ve Ragash Bloodwish ı ortadan kaldır.
+52977	Darkshore da Malfurion Stormrage i bul.
+52978	Zuldazar a dönmek için Dread-Admiral Tattersail ile konuş.
+52981	Warchief i bulabilmek için Darkshore u araştır.
+52990	Plunder Harbor da Nathanos Blightcaller ın yanına dön.
+53003	Orgrimmar da Sylvanas Windrunner a rapor ver.
+53028	Kalimdor içinde Silithus da Magni Bronzebeard ile buluş.
+53031	Orgrimmar da Nathanos Blightcaller ile konuş.
+53041	Chemist s Notes ve Raw Azerite Sample topla.
+53045	Thresher s Wharf ta Coxswain Hook la konuş.
+53050	Port of Zandalar daki Banshee s Wail de Nathanos Blightcaller ile buluş.
+53056	Zandalar Limanı ndaki Banshee s Wail de Nathanos Blightcaller ile tanış.
+53062	Zandalar Port daki Banshee s Weil de Nathanos Blightcaller ile buluş.
+53065	Port of Zandalar daki Banshee s Wail de Nathanos Blightcaller ile buluş.
+53066	Port of Zandalar da bulunan Banshee s Wail de Nathanos Blightcaller ile buluş.
+53067	Port of Zandalar daki Banshee s Wail de Nathanos Blightcaller ile buluş.
+53068	Port of Zandalar daki Banshee s Wail de Nathanos Blightcaller ile buluş.
+53069	Boralus Harbor daki Wind s Redemption da Halford Wyrmbane ile buluş.
+53070	Boralus Harbor daki Wind s Redemption da Halford Wyrmbane ile buluş.
+53071	Boralus Harbor daki Wind s Redemption da Halford Wyrmbane ile buluş.
+53072	Boralus Harbor daki Wind s Redemption da Halford Wyrmbane ile buluş.
+53074	Mathias Shaw ile askere alım emri konusunu konuş.
+53079	Garona Halforcen ile işe alım emri konusunu konuş.
+53081	Zafer Raporunu Nathanos Blightcaller a İlet.
+53095	Darnassus un sivillerini tahliye et.
+53097	Purifying Effigy i araştır.
+53099	Ascendant Nightmare i yen.
+53102	Zafer raporunu Nathanos Blightcaller e teslim et.
+53103	Toska Eaglehorn ile konuş.
+53105	Cleansing Thurible ı kullanarak 1 bozulma kaynağını arındır.
+53109	Boralus ta Harbormaster ın Ofisindeki Taelia nın yanına dön.
+53110	Ulfar a Runic Power Cores götür.
+53125	Zafer raporunu Nathanos Blightcaller e teslim et.
+53126	Garn Blackwolf ile Konuş.
+53148	Arathi Highlands de 20 adet Boulderfist klanı Ogre yi öldür.
+53150	Arathi Highlands de 20 adet Witherbark kabilesi trollerini öldür.
+53151	Görev raporunu Nathanos Blightcaller e teslim et.
+53152	Mukkral Blackvein ile Konuş.
+53154	Dabyrie s Farmstead de 20 League of Arathor öldür.
+53173	Go Shek Farm da Syndicate in 20 üyesini katlet.
+53190	Stromgarde de 20 Vengeful Ghosts öldür.
+53193	Arathi Highlands de 20 Burning, Cresting, Rumbling, veya Thundering Exiles yada Guardians öldür.
+53194	Stromgarde a ışınlanmak için Yvera Dawnwing ile konuş sonra da Captain Roderick Brewston a git.
+53197	Foreman Tully, Lumbering Leo ve Grayson Bell e rapor ver.
+53198	Yvera Dawnwing ile Boralus a geri dönmek için konuş.
+53207	Zuldazar da Throk a rapor ver.
+53208	Ar gorok a teleport için Druza Netherfang ile konuşun, sonra Whistle Silversnitch e rapor verin.
+53210	Foreman Drogg, Graul ve Flightgineer Krazzle e rapor ver.
+53212	Zuldazar a geri dönmek için Druza Netherfang ile konuş.
+53310	Stormwind e giden portalı kullan.
+53330	Razorclaw Alpha Pelt elde et.
+53332	Boralus taki Halford Wyrmbane e git.
+53333	Zuldazar da Nathanos Blightcaller a git.
+53348	Thundersnout s Snout u Centurion Kaga Warmstone a götür.
+53369	Loh a rehberlik etmeyi öğren.
+53370	Stormwind Harbor da Master Mathias Shaw ile buluş.
+53372	Grommash Hold un içinde High Overlord Saurfang ile konuş.
+53414	Horde u Stromgarde Savaşında Mağlup et.
+53416	The Battle for Stromgard da Allience ı yen.
+53438	Lindel the Snatcher ve Silent Boris i öldür.
+53439	8 Wailing Sirens katlet.
+53440	The Hornet ı öldür.
+53442	Castaway Point de Stabby Jane ile görüş.
+53443	Friendly Pete, Hungry Sam ve Handy Bill ile kaybolan eşyaları hakkında konuş, ardından bu eşyaları Wailing Tideway içinde bul.
+53444	Glimmering Locket i Stabby Jane e götür.
+53445	Patheope ve Nolpe yi öldür.
+53446	5 tane Juicy Lurker Tail topla.
+53451	Norwington Estate in batısındaki Raging Earthguard ı öldür.
+53454	Krakenbane Cove daki Quartermaster Ssylis i öldür.
+53456	Highroad Pass ın yakınındaki Rime Huntress ı yen.
+53458	Fallhaven ın dışında bulunan Rindlewoe yu yen.
+53459	Corlain de bulunan Sister Lilias ın kellesini getir.
+53461	Bleak Hills Mine dan 10 Silver Nugget topla.
+53462	Bleak Hills Mine da Writhing Cocoon ları kırarak 8 tane Bleak Hills Miner kurtar.
+53463	Bleak Hills Mine da 20 Bilefang spiders öldür.
+53551	Blackwood Den de 5 Horde Demolisher sabote et.
+53583	Bir yükseltme başlatmak için Alleria Windrunner ile görüş.
+53602	Bir yükseltme başlatmak için Eitrigg ile görüş.
+53604	Master s Glaive de ki Night Elf güçlerini katlet.
+53605	Master s Glaive de ki glaive thrower ları yok et.
+53606	Blackwood Den e 3 Horde Banner ı Dik.
+53608	6 Azerite Deposit inden Azerite Topla.
+53609	10 Night Elf Kuvvetini Öldür.
+53610	15 Lor danel muhafızını öldür.
+53616	Astranaar da 8 Forsaken Suikastçisi öldür.
+53617	10 delirmiş Blackwood furbolg u öldür.
+53619	6 Azerite Deposit ten Azerite topla.
+53621	Nazj vel de 10 Horde askeri öldür.
+53622	Lor danel de ki Horde güçlerini yok et.
+53627	Azerite ı Blackwood Den de ki Zarvik Blastwix a götür.
+53672	Barracks dan bir müttefiği askere almak için Ralston ile konuş.
+53673	Jonathan Flynn ile Zırh Deposunun vereceği şeyi öğrenmek için konuş.
+53674	Altarite Jesse Taylor ile konuş ve Altar of Kings in teklifini öğren.
+53677	Vindicator Banra ile eğittiği hayvanlar hakkında konuş.

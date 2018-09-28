@@ -1,0 +1,1560 @@
+0	Warchief in Çağrısı
+11	Riverpaw Gnoll Ödülü
+834	Çöldeki Rüzgar
+4883	Sırları Korumak
+24504	High Road u Temizle
+25126	Kesici Dişler
+25127	Scorpid in İğnesi
+25128	Hana zua
+25134	Tembel Ameleler
+25136	Galgar ın Kaktüs Elması Süprizi
+25152	Dünyadaki Yerin
+25172	Evimizdeki İşgalciler
+44785	Beni yeniden kullan
+45972	Lanetli Çalılık
+46727	Savaşın Gelgitleri
+46728	Kul Tiras Ulusu
+46729	Yaşlı Şövalye
+46846	Zul un Sözü
+46926	Şantaj
+46927	Tal aman ın Cezası
+46928	Tal farrak ın Cezası
+46929	Caydırıcı
+46930	Rastakhan
+46931	Horde un Sözcüsü
+46957	Zuldazar a Hoşgeldin
+47098	Etrafını Tanı
+47099	Etrafını Tanı
+47103	Nazmir e Yolculuk
+47105	Karanlığa Doğru
+47130	Uygunsuz Defin
+47181	Dumanı Tüten Silah
+47186	Sanctum of the Sages
+47188	Loa nın Yardımı
+47189	Bölünmüş Bir Ulus
+47198	Bizi Canlı İstiyorlar
+47199	The Blood Gate
+47200	Keneler
+47201	Rokhan
+47204	Yeni Cephe
+47205	Warmother
+47226	Yetim Kalmış Yavru
+47228	Xibalan Ekolojisi
+47229	Torcali Siperi
+47235	Göz İçin Scrying
+47241	Ölümün Gölgesi
+47244	Ruhların İtlafı
+47245	Mesajı Almak
+47247	Ölülere Musallat Olan
+47248	Ölüm Bizi Ayırana Kadar
+47249	Soulbound
+47250	Tekrar Buluşacağız
+47257	Xibala nın Kemikleri
+47258	Kuşatma için Hazırlan
+47259	Direhorn Bakımı
+47260	Yan etkiler şunlar olabilir...
+47261	Direhorn unu Nasıl Eğitirsin
+47262	Blood Troll lerin Sonu
+47263	Niyeti Anlama Zamanı
+47264	Kimseyi Sağ Bırakma
+47272	Direhorn Büyüme Hormonu
+47289	Bez Bebekler ve Çay
+47299	Sürgüne Giden Yol
+47310	Şekerleme Zamanı
+47311	Kafa Atma 101
+47312	Queenfeather
+47313	İhtiyatlı Müzakereler
+47314	Sürgün Söylentileri
+47315	Kumullara Doğru
+47316	Kumdaki Gizemler
+47317	Kazazedeleri Aramak
+47318	Çölün Meyvesi
+47319	İyileştirici Zehir
+47320	Yatıştıran Bir Merhem.
+47321	Knickknack leri Geri Al
+47322	Yardımlı Kaçış
+47324	Alışılmadık Müttefikler
+47325	Gözü Kara İntikam
+47327	Saldırılarına Cevap
+47328	DEĞİŞTİR BENİ
+47329	Bloodwatcher Mirası
+47418	Büyüme Sancıları
+47422	Korkunç Durum
+47423	Yasak Uygulamalar
+47428	Pisi?
+47432	Anlaşmaya Varıldı
+47433	Saldırgan Savunma
+47434	Yasaklama Emri
+47435	Pterrortorial Mücadele
+47437	Rekabetçi Sadakat
+47438	Taraf Seçmek
+47439	Gonk, Sürünün Lordu
+47440	Pa ku, Rüzgarın Efendisi
+47441	Baş Belaları
+47442	Jani nin Laneti
+47445	Zanchuli Meclisi
+47485	Şüpheli Kargolar
+47486	Şüpheli Sevkiyatlar
+47487	İş Anlaşmazlığı
+47488	Ufak Çekiciler
+47489	Saklan ve Git
+47491	Lanetlenmişlerden Kalanlar
+47493	Yalnız Ruh
+47495	Doyumsuz İştah
+47497	Goldtusk Gang İle Tanış.
+47498	Rhan ka nın Kayıp Arkadaşı
+47499	Sırıtan Putlar
+47500	Beni Tekrar Kullan
+47501	Kirli İçkiye Kirli İş
+47502	Büyük Kafatası Hızsızlığı
+47503	Köle Tüccarı Gozda kun
+47509	Terrace of the Chosen
+47512	Nazmir
+47513	Vol dun
+47514	Zuldazar
+47518	Raal
+47520	Yerin Kulağı Var
+47521	Loa nın Bahçesinde Geceyarısı
+47522	Avcı
+47525	Gizli Kalmak
+47528	Yalanlar Kraliçesi
+47529	Doğaüstü Destek
+47540	Totemsel İyileştirme
+47564	Büfeyi Yeniden Doldurmak
+47570	Gizli Nedenler
+47571	Ulunun Bilgeliği
+47573	Ormanağı İstilâsı
+47574	Tamamen Ağla Kaplı
+47576	Kaplanın Gazabı
+47577	Denizden Geldiler
+47578	Loa nın İşareti
+47580	Mepjila nın Laneti
+47581	Kimbul un Kutsaması
+47583	Öl Diemetradon Öl
+47584	Kenardaki Diken
+47585	Yırtıcılık
+47586	Avcıyı Avlamak
+47587	Headhunter Jo
+47596	B  Planı Yok
+47597	Hiçbir Goblin Arkada Kalmayacak
+47598	Yağma ve Sıvışma
+47599	İntikam: Sıcak Yenir
+47601	Saha Değerlendirmesi
+47602	Harekete Hazır
+47621	Gerçek Bir Loa Ziyafeti
+47622	Büyülü Bir Parıltı
+47623	Krag wa nın Son Büyücü Hekimi
+47631	Libation ile Buluş
+47638	Güçlü Ruhlar
+47659	Avcıyı Avla
+47660	Düşmüş Putlar
+47671	Kadim Hikaye
+47672	Kadim Bilgi
+47695	Alarmı Çal
+47696	Korkunç Krag wa
+47697	Krag wa nın Yardımı
+47706	King K tal ı Avlamak
+47711	Engereğin Başı
+47716	Harabeleri Aramak
+47733	Loa-Speaker ın İhaneti.
+47734	Sapkınlık Ortakları
+47735	Kadim Tortollan İlaçları
+47736	Kafalar Yuvarlanacak
+47737	The Temple of Rezan
+47738	Loa nın İradesi
+47739	İntikam Kokusu
+47740	Kralın evi
+47741	Bir Loa yı Kurban Etmek
+47742	Zul un İsyanı
+47755	Tutsak ve Mest
+47860	Kaba Bir Uyandırış
+47868	The Necropolis(Kabristan)
+47870	Ölü Adamlar Hikaye Anlatamaz
+47871	Denizcilik İhtiyaçları
+47873	Captain ın Zulası
+47874	Sisi Aydınlat
+47880	Ölüye Hürmet
+47897	Zanchuli Hainleri
+47915	Ele Geçirilmişi Kurtarmak
+47918	Krag wa ya Hizmet Etmek İçin
+47919	Yamyamlığa Dur De
+47924	Sövme Filtresi
+47925	Menüde Shoak Var
+47926	Benim Tortollan Kahramanım
+47928	Loa için Adak
+47939	Eğer Anahtar Uyarsa...
+47943	Yengeç Avlamak
+47945	Pazara, Pazara
+47946	Pastırmalarını Kurtar
+47947	Büyük Kötü Kurtlar
+47948	Domuz Pirzola
+47949	Bu Benim Fetişim Değil
+47950	İyileşmiş Jambon
+47952	Kayıp Donanma
+47959	Warguard ın İzi
+47960	Tiragarde Sound
+47961	Drustvar
+47962	Stormsong Valley
+47963	Kadim Olan
+47965	Yıkılmış Tapınak
+47968	İşaretler ve Alâmetler
+47978	Aksi Kocakarı
+47979	Cadı Avı
+47980	Kudurmuş Tanıdıklar
+47981	Laneti Kırmak
+47982	Son Effigy
+47998	Yamyamları Öldürmek
+48003	Lord un Emri
+48004	Acemi Biniciliği
+48005	Misafirimiz Ol
+48008	Tehlikeli Kargo
+48009	Muhafızın İhaneti
+48014	Ayak Takımını Temizle
+48015	Gral ın Parşomenleri
+48017	Doğru Eller
+48023	Emirler Alındı
+48025	Sonrası İçin Saklamak
+48026	Dalgaların Altında
+48070	Norwington Festival i
+48077	Gelincik Avı
+48080	Bir Tehlike Öğesi
+48087	Atı Getirmek
+48088	Trogg Partisi Gibisi Yoktur
+48089	Dağ Sesleri
+48090	Krag wa nın Seçilmişleri
+48092	Kurbağaların İntikamı
+48104	Muazzam Bir Meydan Okuma
+48108	Waycrest in Kızı
+48109	Ormanın Gözleri Var
+48110	Pusuya Düşürülme İhtimali
+48111	Batıl İnançla Yargılanma
+48113	Keskin Kokulu Bir Çözüm
+48165	Yutulursa Zararlı
+48170	Bir Kere Dişlen, İki Kere Utan
+48171	Fletcher s Hollow un Laneti
+48176	Küçük Tortolla da Büyük Problem
+48179	Korucuları Kurtar
+48180	Gerçekten Büyük Bir Problem
+48182	Toplu Yıkım
+48183	Bu Tepeler Canlı
+48184	Tarihin Parçaları
+48195	Başbelası Troglodyte ler
+48196	Eddie nin İzlerini Takip
+48198	İspat Etmenin Yükü
+48283	Sanık Koltuğu
+48307	Tuhaf Totemler
+48313	Doğanın Şifası
+48314	Ürkütücü Ölüm
+48315	Oyuk, Boş Gözler
+48317	Büyü Kokusu Almak
+48320	En İyisi Abartmak
+48321	Yaratıcı Pazarlama
+48322	Goldtusk Selamı
+48324	Zem lan da Kayıp
+48326	Bu İsyan Olacak
+48327	Bir Tuhaf Teslimat
+48329	Hırpalanmış Ama Yıkılmamış
+48330	Zandalari nin Sahipsiz Definesi
+48331	Ruhları Çekmek
+48332	Ranishu Kaynakları
+48334	Onların Golemleri Var
+48335	Vol dun daki En Sağlam Halat
+48347	Anglepoint Wharf
+48348	Sokan Dikenler
+48352	Denizden Gelen Şifa
+48353	Wharf un Nabzı
+48354	Kusurlu Nakliyat
+48355	Bölgeyi Tahliye Et.
+48356	Sahiplenici Başlık
+48365	Genç Lord Stormsong
+48366	Güvenliğe Kürek Çekmek
+48367	Bunlar Balık Yumurtası Değil
+48368	Derin Deniz Kirliliği
+48369	Acil Strateji
+48370	Derinlerdeki Ölüm
+48372	Büyülü Zikir
+48399	Kara (Demirden) Dalga
+48400	Muhteşem Telemacy Soygunu
+48402	Zehirli Bir Dokunuş
+48404	Haylazlar
+48405	Mista Nice
+48419	Cezbedilmiş ve Büyülenmiş
+48421	Med Cezirde Kan
+48452	Red Market
+48454	Kötülüğün Kanıtı
+48456	Witch Doctor Jala
+48468	Bwonsamdi nin Teslimatı
+48473	Törelere Saygı
+48475	Ruhları Görmek
+48476	Veda Partisi
+48477	Bir Tane Daha Aranıyor
+48478	Kel vax ın Evi
+48479	Güvenlik için Kemikler
+48480	Kel vax ın Düşüşü
+48483	Bir Yabancının Ricası
+48492	Bir Adım Önde 
+48496	Ekibi Yeniden Topluyoruz
+48497	Güç Gösterisi
+48498	Sithis e Merhamet Yok
+48499	Toz Ol!
+48500	Kısa Bir Mola
+48504	Eski Yollar İçinden
+48505	Karasevdalı ve Kayıp
+48515	Gümüş Kılıçlar
+48516	Zehirli Topluluk
+48517	Şerefli Terhis
+48518	Kurtarabildiğimizi Kurtarmak
+48519	Umarım Yüzemezler
+48520	Üç Kız Kardeş
+48521	Cansızı Büyülemek
+48522	Açığa Çıkan Mektup
+48523	Cani Müdire
+48524	Cadılar Meclisini Dağıtmak
+48527	Açgözlü Dolandırıcılar
+48529	Beslenecek Boğazlar
+48530	Duydum ki Sürünü Kaybetmişsin
+48531	Gizemli Et
+48532	Alpakalar Çıldırdı
+48533	Vol dun Usulü Kızarmış Tavuk
+48534	Snarltooth un Son Gülüşü
+48535	Nazmir,Yasak Bataklık
+48538	Su Götürmez Mazeret
+48539	Freehold
+48540	Wharf a yardım etmek
+48549	Grozztok the Blackheart
+48550	Çalınan Çantalar
+48551	Susuz Solmak
+48552	DÜZELT BENİ
+48553	Bırak Aksın
+48554	Problemin Kaynağı
+48555	Tohumları Kurtarabiliriz
+48557	Fideleri Ekmek
+48558	Irontide Çetesi
+48573	Timsah Hayatı
+48574	Diş Çekimi
+48576	Güvenli Uçuş
+48577	Yumurta Terörü
+48578	Uçanbelanın Gözü
+48581	Temiz Bir Şaplak
+48584	Düşmanlarımın Kanı
+48585	Çorakta Hayatta Kalmak
+48590	Kafam ve Omzum
+48591	Urok un Gerçek Ölümü
+48597	Saurolisk Kaçışı
+48604	Evim Evim Güzel Evim
+48606	Küplere Binmiş
+48616	Bolas and Kuşlar
+48622	Kayıplara Karışan Lord
+48630	Lanetlilerin Sonu
+48653	Bezenmiş bir Hapishane
+48655	Aşçı Yamağı
+48656	Vahşi Sauroliskler
+48657	Çok Lezzetli Olabilirler
+48669	Urok, Terror of the Wetlands
+48670	Kaçak Binici
+48677	Hasıra Tapmak
+48678	Şaibeli Adaklar
+48679	Kovanlara Dikkat Et
+48682	Gösterişsiz Bir Kurban
+48683	Sezonları Değiştirmek
+48684	Hareket Halinde
+48699	Zalamar a Sızmak
+48715	Akunda Bekliyor
+48773	Evraklar Lütfen
+48775	Son Görev
+48776	Halat Donanımı Hırsızlığı
+48778	Taş Çorbası
+48785	HENÜZ KULLANILMADI - TEKRAR KULLAN
+48786	KULLANILMADI TEKRAR KULLAN BENİ
+48787	KULLANILMADI YENİDEN KULLAN BENİ
+48790	Çalınan Mallar
+48792	Halk Düşmanı
+48793	Maceraperestler Topluluğu
+48800	Yarasanın İşareti
+48801	Yarasanın İşareti
+48804	Hatalar Yapıldı
+48805	Araştırma Kurtarma
+48808	Tez
+48823	Yıkımın Yansıması
+48825	İnkar Edilmiş Güç
+48826	HENÜZ KULLANILMADI - TEKRAR KULLAN
+48838	Su Tazminatı
+48840	Harabe Seviye Pazarlama
+48845	Top İmhası
+48846	Likid Motivasyon
+48847	Kabileyi Silahlandırmak
+48850	Tongo
+48853	Son Unvan
+48854	Güç Teklifi
+48855	Dehşeti Aşağılamak
+48856	Aktarım Kesintisi 
+48857	Tüm Umutlar Bitti
+48869	Keser Döner Sap Döner 
+48871	Relic leri Kurtar
+48872	Kazıyı Hızlandırmak
+48873	Boz Bir Son
+48874	Pasımızı Mazur Görün
+48879	Şahin Yumurtalarını Avlamak.
+48880	Huysuz Martılar
+48881	Makara İşi
+48882	Balık Bağırsaklarını Seviyorum ve Yalan Söyleyemem
+48883	Büyük Martılar Ölmüyor
+48887	Zihni Arındır
+48888	Ebedi Kaynak
+48889	Geçmişi Tamir etmek
+48890	Nasıl Blood Troll Olunur
+48891	RENAME ME
+48893	RENAME ME
+48894	Hakikati Denemek
+48895	Mükemmel Adak
+48896	Geçmişin Bilgisi
+48897	Yapılan Pazarlık
+48898	Şans Tılsımı
+48899	Önce Güvenlik
+48902	Korkunç Enerji
+48903	Mükemmel At, Şüphesiz
+48904	Yemi Yut
+48905	Takdir Görmeyen Parşömen
+48909	Asil Sorumluluklar
+48930	Hırsız Snapperlar
+48932	DAHA KULLANILMADI YENIDEN KULLAN
+48939	Hünerlerini Görelim
+48941	Hafifçe Sapmak
+48942	Yeti ye Gürlemek
+48943	Kurtarma Hukuku
+48944	Tarihi Keşfetmek
+48945	Gol Var Harabeleri
+48946	The Order of Embers
+48947	Gol Koval
+48948	The Northern Caverns
+48949	Çamurun Bitkileri
+48963	Oyalayıcı Taktikler
+48965	Skoru Eşitle
+48986	High Road u Kullan
+48987	Valley of Sorrows	
+48988	Hatıra İhlali
+48989	Zehirlenmiş Niyetler
+48990	Liderin Çağrısı
+48991	İğrenç İstila
+48992	Kutsal Kalıntılar
+48993	Güçlü İletkenler
+48994	Akunda the Liar
+48996	Çılgınlığı Sonlandırmak
+48997	NOT USED REUSE ME
+48998	NOT USED REUSE ME
+49001	Uygunsuz Ruhlar
+49002	Zorunlu İniş
+49003	Yukarıdan Gelen İntikam
+49005	Paramparça ve Kırık
+49028	Rupert için bir Süeter
+49036	Gösterinin En iyisi
+49039	Canavar Avı Başlangıcı
+49040	Sevgi Dolu Veda
+49059	Xibala nın Kemikleri
+49060	Xibalan Ekolojisi
+49064	Torga, Kaplumbağa Loası
+49066	Acil Bir Durumda
+49067	Bwonsamdi ye Yalvarış
+49069	ARANAN: Ol  Frostclaw
+49070	Ölüm Loa sı İçin Ruhlar
+49071	Dreadtick leri Yakma
+49072	Batı Yönündeki Asil
+49073	Ayinsel İnkar
+49078	Sürüyü Zehirlemek
+49079	Hir eek, Yarasa Loası
+49080	Tüm Çağrıları Sonra Erdir
+49081	Bir Loa Öldürmek
+49082	Yukarıya ve İleriye Doğru
+49120	Ölülerle Konuşmak
+49122	Tehlikedeki Liman
+49123	Katil Crawglar
+49124	Tortollan ları Kurtarma
+49125	Kötü kan
+49126	Kaderin Elini Zorlamak
+49127	Hexing e İzin Yok
+49130	Loa sız Diyet
+49131	Kutsayan Alanlar
+49132	Kemikkıranları kırmak
+49136	G huun un elçisi Jungo
+49138	Kaptan Gulnaku nun Hazinesi
+49139	Bir Ordunun Cephaneliği
+49141	Diplomasi ve Baskınlık
+49144	Zandalari nin Gazabı
+49145	Geride Hiç Troll Bırakılmaz
+49146	Ruhların Eşyaları
+49147	Güç Gösterisi
+49148	Darma Duman
+49149	Voodoo yu Kucakla
+49160	Torga nın Ebedi Dönüşü
+49165	NYI Reputation Gövevleri Burada Başlıyor.
+49178	Benim Favori Eşyalarım
+49181	Parıldayan Madalyon
+49185	Arayı Kapatmak
+49217	Tuzakları Test Etmek
+49218	Kazazedeler
+49223	Büyük Hile
+49225	Liderin Peşine Düşmek
+49226	Kız Kardeşleri Susturmak
+49227	Maymuncuk
+49229	Harabeler Karşılık Verdi
+49230	Yerel Lezzet
+49232	Faciadan Kalanları Kurtarmak
+49233	Ben bir Druid im, Priest değil!
+49234	Suyun Çıkmış Bir Denizci
+49239	Etkilemek için Giyin
+49242	Kirpile ya da Kirpilen
+49259	Herkes İçin Adalet
+49260	Toparlanırken Beni Koru
+49261	Aksi Tayfa ya Yahni
+49262	Çete Çökertme
+49268	Sudaki Köpekbalıkları
+49274	Morgrum ın Araştırması
+49278	Ruhani İyileşme
+49282	Morgrum s Uzatılmış Araştırması
+49283	Seeker ları Kim Arar?
+49284	Harika Müjdeler
+49285	Minik Hazineler
+49286	Hapsedilmiş Bilgelik
+49287	Kayıp Kaplumbağalar
+49288	Parşömen Avcıları
+49289	Özel Bir Taş
+49290	Mükemmelik için Yıllanmış
+49292	Alg Şeyk
+49295	Temiz-Kesim
+49299	İçindeki Düşman
+49301	Tamamen Sahte
+49302	En Ölümcül Av
+49309	Yıldırım ın Düşüşü
+49310	Kahinin Taktiği
+49314	Zardrax ı Avlamak
+49327	Onları Geri Püskürt!
+49331	İlginç Bir Bulgu
+49333	Cephaneliğimizi İnşa Etmek
+49334	Güçlü Bir Tutsak
+49335	Skycaller Katliamı
+49336	Geçmişin Parçalarını Birleştirmek
+49337	Bir Kalp Meselesi
+49340	Bekçilerin Anahtarları
+49348	Kutsallığı Bozulmuş Tapınak
+49366	Yaralılara Yardım
+49370	Tarihçiyi Kurtar
+49376	Bir Şey Var
+49377	Kellesini Alın!
+49378	Güvenlerini Kazan
+49379	Crawg Serbest Bölgesi
+49380	Kötü Muska
+49382	Arkadaş Yapmışsın
+49393	Roughneckler
+49394	Sıkı Dur
+49395	Ayılar ve Arılar
+49399	Büyük İş
+49400	Daelin s Gate in Savunucuları
+49401	Rodrigo nun Tüneği
+49402	Kafese Uçur
+49403	Rodrigo nun İntikamı
+49404	Fairwind in   Arkadaşları  
+49405	Daelin s Gate in Savunucuları
+49407	Trixie İşi
+49409	Kayıp Hazine!
+49412	Henry ye Yardım
+49417	Roughneck Riders
+49418	Büyük Patron
+49419	Donmuş
+49421	Zul u Avlamak
+49422	Kafirler
+49424	Tam Kehanet
+49425	Şehr-i Altın
+49426	Kralın Hamlesi
+49427	Bizim Mor Elflerimiz Değiller
+49428	Grand Theft Telemancy
+49431	Sıcak ve Rahat
+49432	Sahipsiz Ruh
+49433	Wendies
+49435	Nereye Gitmiş Olabilirler?
+49437	Yırtık Not
+49438	KULLANILMADI 
+49439	Patronun İntikamı
+49440	Dışarıdaki Blood Troll
+49441	Koy un Sonu
+49443	Bir Cadı Avı Dersi
+49450	Olay Raporları
+49451	İzin Ricaları
+49452	Demirbaş Açığı
+49453	Bir Baraj Ver
+49454	Haşere Tedbiri
+49464	Saurolisk Kuyrukları
+49465	Kaynakları Arttırmak
+49467	Ormanın Cadısı
+49468	Ağ Kesici Gerekli
+49472	Dev Bir Gayret
+49477	Sürpriz Destek
+49479	Yapmaları Gerekir miydi Düşünmediler
+49488	Tal gurub
+49490	The Urn of Voices
+49491	Voodoo Yakıtı
+49492	Vol jamba nın Kibiri
+49493	Zul ün Etik İkilemleri
+49494	Zuvembi İçkisi
+49495	Kaçınılmaz Kader
+49522	Carentan ın Ödemesi
+49523	Kötü Bir Anlaşma
+49531	Pazarlamanın Güzelliği
+49569	Nehrin Kıyısından Aşağıya
+49615	Kralın İtimadı
+49661	Yerli Üretim Yumurta
+49662	Kayıp Anahtar
+49663	Sahte Kehanetler
+49664	Anarşideki Müttefikler
+49665	İsyan Etmeye Hazır
+49666	Bizden Korkmalarını Sağla
+49667	Yavrular
+49668	Vadiyi Aydınlat
+49669	Canavarları Sal
+49670	KULLANILMADI
+49672	Loa nın Hizmetkarı
+49676	Savaş İçin Kuşanmış
+49677	Saldırı Planları
+49678	Bir Kuleyi Gözetliyorum
+49679	The Sethrak İstilası
+49680	Skycaller Soltok
+49681	Lil  Tika
+49703	Stormsong Evi
+49704	Sapıtmış Hasatçılar
+49705	Gereksiz Zorlama
+49706	İlan Soruşturması
+49710	Yumurta Bağışı
+49715	Greystone Kalesinde Problem
+49716	Güven Üzerine Bir Ders
+49719	Ödemeyi Almak
+49720	Özgür Kuş
+49725	Riskli Bir Taktik
+49730	ARANIYOR: Thundersnout
+49731	Tutkulu Vedalar
+49732	Tahliye!
+49733	Arka Tarafı Onarmak
+49734	Bir Döneği Hedef Almak
+49735	Yuvayı Koru
+49736	Kul Tiras İçin!
+49737	Hava Saldırısı
+49738	Ganimetimden Ellerini Çek!
+49740	Ateşi Kes!
+49741	Adil Ceza
+49742	Büyüklerine Saygılı Ol
+49743	Önce Vur, Sonra Sorgula
+49744	Bombalar, Uzağa
+49745	Emirlerini Aldın
+49746	Alevleri Söndür
+49754	Sadece Zul  Değil
+49755	Ağır Toplar
+49757	Kızgın Damdaki Kedi
+49758	İşareti Gönder!
+49768	Nesingwary s Trek
+49769	Cataclysm in enkazı
+49774	Solmasına İzin Verme
+49775	Brig in Anahtarı
+49776	Katranın Halledemeyeceği Sorun Değil
+49777	Kaçak
+49778	Işığa Doğru Gitme
+49779	Dibine Kadar Kötü
+49780	Antik Ateşi Kurtarmak
+49781	Sıkıysa Yakala
+49785	Silahı Yok Et
+49791	Kayıp, Unutulmuş Değil
+49792	Bağlı ve Mazlum
+49793	Bir Amaç Uğruna
+49794	Yükselen Dalga
+49801	Agresif Çiftleşme Stratejisi
+49803	Nöbetçi Değişimi
+49804	Kıvrak Zeka
+49805	Kötü Niyetin Uygulamaları
+49806	Gizli Anlaşmalar
+49807	Yeni Bir Düzen
+49808	Akıntıya Karşı
+49810	Devasa Çöpçatan
+49814	Brutosaur a Uygun Koku
+49818	Fort Daelin de Sorun
+49831	Derinlerden
+49832	Okunaksız Bir Parşömen
+49869	Umutsuz Bir Savunma
+49870	Boyut Önemli
+49871	Akıntıya Karşı
+49884	Umudun Mavi Işığı
+49886	Burnunu Takip Et
+49887	Zorla Çalıştırma
+49890	Drustfall
+49892	Ben jin in Savaşı
+49896	Hedef Falconhurst!
+49897	Gizemler Yaratmak
+49898	Kesin Zafer
+49901	Atal Dazar: Düşmüş Rahibe Yazma
+49902	Gloom Hollow a
+49905	Ters Köşe 
+49908	Brennadam a Dönüş
+49917	Kaja mite? Kaja must! 
+49919	Kaja mite Cevher Cümbüşü
+49920	Gorilla Savaşı
+49922	King Da ka
+49926	Corlain e Giden Yol
+49932	Uyan Artık
+49935	Bir Titan Keeper ı nasıl tamir edersin?
+49937	Kalıntıları Toplamak
+49938	Çürümüş Toprak
+49939	Hoşça Kal Bacım
+49940	Sandscar Breach
+49941	Kemik Töreni
+49949	İstenmeyen Undead
+49950	Kan Arındırması
+49952	G huun Özü
+49955	Bu Uçağa Uygun Değil
+49956	Void Yasaklanmıştır
+49957	Protokol Kurtarma
+49960	Saldır!
+49965	Savaş Çantası
+49969	Bir Tanrıyı Uyandır
+49970	Yeni Dostlar
+49975	Derinlikler İçinde Uyu
+49976	Düşmüşlerin Armağanı
+49977	Orgrimmar a Çağrı
+49980	Muhafaza Prosedürü
+49981	Yaraya Şahit Ol
+49982	Yaraya Tanıklık Et
+49985	Gloom Hollow a geri dön.
+49991	Featherfeet in Eğlenceli Düşüşünün Eğlence Ücreti!
+49995	Fabrikasyon İmalatlar
+49996	Yeniden Silahlanma
+49997	Storm un Yargısı
+49998	Aşağıdaki Sesler
+50001	Cadıları Bozmak
+50002	Çok Kıymetli Bir Kargo
+50003	İlk Nöbet
+50005	Elimi Tut
+50026	Mürettabatımızı Kurtar
+50036	Geçmişten bir Silah
+50041	Bir Cep Dolusu Fişek
+50043	Arkeolojik Verimlilik
+50044	Arkeolojik Verimlilik
+50046	Bu bir Sabotaj
+50047	Özgün Numuneler
+50049	Sözcü nün Bakış Açısı
+50052	Casuslar Giremez.
+50053	Tembel Madenciler!
+50055	Sözcünün Bakış Açısı
+50058	Cadı nın Gözdesi
+50059	Hiçbir Şey Duyamıyorum
+50060	Bal, Balçıklar!
+50063	Ateşle Oynamak
+50064	Bodruma İnme
+50065	Kalmak İçin Bir Neden
+50069	Goldfield in Savaşı
+50070	Dedektif Mildenhall
+50074	Şiddetli Destek
+50076	Savaşcıları Gaza Getir
+50078	Ölümsüz Totemler
+50079	Bom, Bomba Patlar
+50081	Izdırap Yolu
+50082	Ani Hedef
+50083	Crawg Ma da
+50084	Ayağa Kalk, Asker
+50085	Kan ve Ateşten Bir  Mesaj
+50087	Ateena nın Sonu
+50088	Sonsuza Dek Golden Fields
+50090	Savunma Oluşturmak
+50092	Garip Bir Şekilde Güçlü
+50110	Kötü Haber Taşıyıcıları
+50111	Totemler, Totemler, Totemler!
+50132	Yapışkan Bir Teklif
+50134	Bir Sürü Ivır Zıvır Ve Zımbırtı
+50135	Sarmaşıklanmayı Kes!
+50136	Tarımsal Uyarıcı
+50138	Bloodfire Ravine Savaşı
+50139	Kayıp Bağlantı
+50149	Açık Göz
+50150	Doğru Ortamı Oluşturmak
+50151	Sabit Ağırlık
+50152	Hırdavat için Kazmak
+50154	Onlar Buna Enfes Diyor
+50157	Tarlalarda Altın Var
+50158	Yıkımı Kontrol Etmek
+50161	Raimond ı Kurtarmak
+50162	Yapışkan Durum
+50165	Arı Takımı
+50168	Kraliyet Ardılı
+50172	Crimsonwood a Doğru
+50173	Kıymetli Metaller
+50174	Hepsi Paketlenmiş
+50175	Sekiz Bacaklı Lanet
+50177	Barikatı Koru!
+50195	Bilgemaul un Tugayı
+50226	Kudretin Kaynağı
+50227	Düzinelerce Larva
+50228	Twilight Kazazedesi
+50229	Azıcık Kumaş
+50230	Gücün Kaynağı
+50231	Düzinelerce Larva
+50232	Hayatta Kalan Twilightcı
+50235	Güvenli Sığınak Yok
+50238	Bramblethorn
+50240	Bir Dil Sürçmesi
+50249	Boralus a Üçlü Tehtid
+50251	Efsunlanmak
+50252	Çiftleşme Sezonu Arası
+50253	Doğaçlama Cephanelik
+50264	Farmhand leri Serbest Bırak
+50265	Master Ashton ı Kurtarmak
+50266	Acı Tatlı
+50268	Biraz Meyve Suyu Ekle
+50285	Huysuz Olma
+50297	Düşmanının Kafası
+50306	Ivır Zıvır Şeyler
+50321	Mojo Yaramazlığı
+50325	Görkemli Ayini Durdurmak
+50327	Birazcık Canlandırıcı İçki
+50328	Alışılmadık Aromalar
+50329	Crimsonwood un Kadın Patronları
+50330	Gözlerini Açık Tut
+50331	Değişik Sonuç
+50332	Büyük Avcı Mon
+50340	Geri Çalmak
+50341	Yeni Bir Keşif
+50343	Mildenhall Meadery de kargaşa
+50349	İşgal Edilmiş Bir Maden
+50350	Bir Kimyacıya İhtiyacımız Var
+50351	Madenci Operasyonu
+50352	Bir Tutam Azerite
+50353	Sıkı Dostlar
+50354	Dikkat Et!
+50356	Kaya Dinamitle Buluşursa
+50358	Çöl Araştırması
+50359	Temizlik Görevi
+50360	Khadgar ın Talebi
+50363	Savaş Domuzları
+50364	Azeroth un Kanı
+50365	Tepelere Koş
+50367	Şişedeki Öfke
+50368	Kraul Terörü
+50370	Ormanın Derinlikleri
+50371	Stormwind e Çağrı
+50372	Çöl Araştırması
+50373	Ani Bir Teşrif
+50374	Azeroth un Kanı
+50375	Benimle Gel
+50376	En Ölümcül Hazine: Büyük Balığı Oltaya Sar
+50377	Sürünün Gücü
+50380	Gizli İhanetler
+50381	Büyük Şapka Soygunu
+50383	Mankrik in Gazabı
+50385	Usanmaz Amaç
+50386	Onları Açığa Çıkart
+50387	İncik Boncuk ve Süsler
+50388	İhtirasımın Ağırlığı
+50389	Habis İlham
+50391	En Ölümcül Hazine: Gun Fishin 
+50393	Pa ku nun Çocuğu
+50394	Artık Senin Sorunun
+50395	Göklerin Çağrısı
+50401	Düşme Korkusu
+50402	SKREEEEE!
+50404	PH Jani den Bir  Hediye 
+50412	Yuvaya Geri Dönüş
+50415	Gonk un Şampiyonu
+50417	Harabe Geldi
+50418	Ölümcül Hazine: Dal ve Yüz
+50433	Zanchuli Dağıtıldı
+50444	Loa Yoluna Çıkmak
+50445	Durumu Kontrol Altına Almak
+50446	Witchrend-leme
+50447	Yitip Gidenleri Anmak
+50449	Kokuşmuş Sığınak
+50450	Agresif Hasat
+50451	Yenilmiş Savunma
+50452	Tesirli Korunma
+50453	Bariyer Patlatan
+50454	Hain in Ölümü
+50455	Yuvadan Uçmak
+50456	Büyülenmiş Yavrular
+50457	İleri Doğru Atıl
+50466	Çıldırdı!
+50476	Warchief Bekliyor
+50481	Drust King in Huzurunda
+50493	Wrex i Getir
+50504	Balla Kaplı Sam
+50530	Cadı Çıkış Yolu?
+50531	Burunlarının Dibinde
+50533	Sapla!
+50534	Wendigo Deplasmanı
+50535	Overseer ın Gücü
+50536	Sihirli Kod Çözücü Cihaz
+50538	Kayıp Terbiyeci
+50539	Zul Ahjin in Gizemi
+50542	Dinamit Gibi Bir Fırsat
+50544	Kennings Lodge un Avcıları
+50550	İmparator Korthek in Düşüşü
+50553	Laboratuvara Dönüş
+50561	Sulthis Taşı
+50573	Yönetimden Mesaj
+50583	Öteki Tarafa
+50584	Yıkıcı Ritüeller
+50585	Hexecutioner
+50586	Corlain in Düşüşü
+50588	Malikane Baskını
+50590	Sahaya Çık
+50593	Lanet Olası Pislik
+50594	Örtü Altında
+50595	Merhamet Yok
+50596	Vermin in Kökünü Kazı
+50600	Order of Embers
+50608	Yasak Ayinler
+50609	Deliliğin Kıyısından
+50610	Fırtına Biçmek
+50611	Fırtınanın Öcü
+50612	Bölünmüş Bir Ev
+50614	Denize Özgürlük
+50616	Köşeye Sıkışmak
+50617	Atul Aman
+50621	Ağa Takılmış
+50622	Anlaşma İptal
+50635	Değişken Gelgitler
+50640	Dikenotoritesi Meselesi
+50641	Saflarını Dağıt
+50642	Warchief in Emirleri
+50644	İstilacılar ile Yüzleşmek
+50645	İrisinden Bir Yılan Balığı
+50646	Hızlı bir Aldatmaca
+50647	Herkesin bir Fiyatı Vardır
+50649	Hırsızlardan Aşırmak
+50653	Savunmamızı Geri Kazanmak
+50656	Riskli Kurtarış
+50672	Herhangi Bir Mühimmat İş Görür
+50674	İki Yüzlü Alçak Korsan
+50675	Hazine Avı
+50679	Kalkanı Delmek
+50687	Skycaller Carcanet
+50690	KULLANILMAMIŞ
+50691	İş Tanımımızda Yok
+50694	Kanlı Bir Karmaşa
+50696	Mıknatıslarla Eğlence
+50697	Bomba Kayayı Yener
+50698	Sorunu Barutla Çözmek
+50699	İşçi Hakları
+50700	Tam Drust ında
+50702	Jakra zet i Alt Et
+50703	Horde u Bilgilendirmek
+50704	Çok Fazla Çapa Kalktı
+50705	Üç Başlı Yılan
+50706	Delta yı Temizlemek
+50733	Yeni Bir Başlangıç
+50738	Vakitlice bir Teşrif
+50739	Kaçan İşler
+50740	Zoram gar Outpost
+50741	Allahsız Tosbağa
+50742	Hepsi Bizim İçin Hazırlanmış
+50743	Acil Sorun
+50745	İmparatorluğa Sızmak
+50746	Krater Fethedildi
+50748	Onu Bırakma... Henüz
+50749	Bedava Sürüş
+50750	İmparatoru Çileden Çıkarmak
+50751	Kuşatma Altındaki Mabet
+50752	Sethraliss in Yadigârları
+50753	Earl ken Kalkan Yol Alır
+50754	Sevilen ve Kaybedilen
+50755	Kuşlar İçin Bir Öğün
+50757	Katliamı Ehlileştirmek 
+50758	Acı Veren Hatıralar
+50759	Geç Kalmak
+50760	Bugünden Sonra
+50761	Mabette Kan
+50762	Leydi nin Kaderi
+50763	Son Bir Rica
+50769	Stormwind Çıkarması
+50770	Etkili Panzehir
+50771	Çağrı: Temizlikçi
+50772	İz Peşinde
+50773	Sen Bir Köpekbalığısın
+50774	Geride Hiç Robot Bırakmadık
+50775	Bize Biraz Kumsal Getir
+50777	Fırtına Uyanıyor
+50778	Çarpık Niyetler
+50780	Yemin Bağı
+50781	Orda Bir Köprü Var Uzakta
+50783	Su Altı Konseyi
+50784	Fırtınanın Merkezi
+50787	Davamızı Savun
+50788	İçerideki Düşman
+50789	Sis Bulutunu Dağıtmak
+50790	Sıcak Takip
+50791	Skree...
+50793	Mağara Patırtısı
+50794	Sığınak Aramak
+50795	Bela İçin Hazırlan
+50797	Bir Kaplumbağanın Daveti
+50800	Ormana Doğru
+50801	Belanın Kokusunu Almak
+50802	Düşük Demirakın
+50803	Hepsini İstiyorum Şimdi 
+50808	İmparatorluğun Düşüşünü Aksatmak
+50810	Kurtar Onları
+50812	Uyanmış Elementler
+50814	Korkunç Bir Yer
+50817	Büyüleyici Bir Kuyruk
+50818	Kayıp Bir Flüt
+50823	Toplanabilecek Olgunlukta
+50825	Shrine of the Storm: Aşağıdaki Fısıltılar
+50834	Sessiz Ol!
+50835	Zandalar Limanı
+50837	Hızlı bir Alçakuçuş
+50878	Bulanık Görüş
+50879	Ağaçların Kulağı Var
+50880	Durdurulamayan Güç
+50881	Kraliyet Raporu
+50897	Isıyı Yükselt
+50901	Saurid Sürprizi
+50903	Kayıp Master
+50904	Terkedilmiş Geçit
+50907	Zavallı Ruhlar
+50908	Bela Kokusu Alıyorum
+50909	Asla Yenilmez
+50910	Tehlikeli Oyun
+50911	Horde a Karşı Bir Adam
+50912	Remix to Ignition
+50913	Akunda nın Kutsaması
+50929	İnsanlara Toz
+50932	KULLANILMADI Scavenger in Planları
+50933	Talihsiz Bir Durum
+50934	Şanslı Deneme
+50946	KULLANILMAMIŞ Tacha nın Teslimatı
+50951	Kutsamaları Paylaşmak
+50953	Greenstalker
+50954	Sonsuza Dek Zandalar!
+50955	Arkadaş Değiliz
+50956	Cep Harçlığı
+50960	Sweete nin Emirleri
+50963	Kara Ameller ve Kara Günler 
+50965	Geriye Kalanlar
+50967	Ormanda Kayıp
+50970	Bir Çiftçinin Kaderi
+50972	Proudmoore nin Müzakeresi
+50973	Kalbin Gücü
+50976	Kadim Bir Lanet
+50978	Eski Patronu Alt Etmek
+50979	Yalnızca bir Çimdik
+50980	Benim Aç Komşum
+50988	Ekonomik Bir Fırsat
+50990	Çağdaş Kanatlı Bilimi
+51001	Deliye Her Gün Kaçakçılık
+51018	Arkadaşlık Teklifi
+51019	O Nerede Fark Yaratacağını Bilir
+51020	Acımasız İş Yöntemleri
+51053	Limanın Düştüğü Gün
+51054	Geciken İsyan
+51055	Yasanın Seren Ucu
+51056	Hayattaki Son Günüm
+51057	Ateşle Mahsur Bırak
+51059	The Golden Isle
+51060	Ganimetteki Payımız
+51061	İlk Öldüğüm Zaman
+51062	Zem lan dan Kaçış
+51069	ARANAN: Darkspeaker Jo la
+51071	ARANIYOR: Sabertusk Empress
+51072	ARANAN: Prime Thumpknuckle
+51078	Azerite Çılgınlığı
+51085	ARANAN: Dark Chronicler
+51087	Aranıyor: Dark Chronicler
+51088	Karanlığın Kalbi
+51089	ARANAN: Tojek
+51091	ARANAN: Ten gor ve Nol ixwan
+51101	Yaralanmış Kral
+51110	Gökleri Temizlemek
+51111	Kral Veya Kurban
+51129	Şüpheli Adak
+51134	Kemiklerin Dili Olsa
+51139	ARANAN: Tojek
+51140	Serveti Paylaşmak
+51142	Zararlılar
+51144	Bir Balya Kürk
+51145	Jani nin Laneti
+51149	Limanda Kaldı
+51150	Kaybedilenleri Onurlandırmak
+51151	League e Mektup
+51159	Büyük Silahı Çıkar
+51161	ARANAN: Za roco
+51162	ARANAN: Taz raka the Traitor
+51164	ARANAN: Kobra Turu Katılımcıları
+51165	ARANAN: Sandscout Vesarik
+51167	Hir eek in Kanı
+51168	Zala mar ın Zealot ları
+51169	The Fall dan Kaçış
+51170	Ooh Rah!
+51177	Lanetlilerin Dersleri
+51190	Erteleme Bahşetmek
+51191	Hepsini Kurtar
+51192	Fazlalık Eksikliği
+51193	O Benim!
+51199	Avın Görkemi
+51200	Kara Koyun
+51201	Troll lerin Öyküsü
+51203	Yalancı Çoban
+51204	ARANAN: Razorclaw Alpha
+51205	Aaaa, Fareler!
+51207	Ettin Bitti
+51208	Bekle Bir Dane
+51209	Haşmetli Grokkfist
+51211	Azeroth un Kalbi
+51214	Tatlı Ol
+51215	Keçileri Sağmak
+51217	ARANAN: Yarsel ghun
+51218	Teslim Edilmemiş Paket
+51220	Denizler Altında Yirmi Bin Fersah
+51221	Yanıt Gerekli
+51222	Senin Mayın Benim Malım
+51224	Kâr ve Keşif
+51226	İki Taraftan Ölüm
+51229	Bir Sahil Üssü Kur
+51231	Cadı Fobisi
+51233	Umarım Dağlarda Hiç Cadı Yoktur
+51234	Krazzlefrazz Outpost
+51240	ARANAN: Anchorface
+51244	Altta Çürüyenler
+51246	Yıkıcı Hesaplaşma
+51247	Taşıdıkları Şeyler
+51248	Verimli Haşerat
+51249	Yengeçhane Ziyafet
+51251	Yeraltı  Sakinleri
+51278	Kayıp ve Unutulmuş
+51279	Nazmani Müritleri
+51280	G huun Adakları
+51281	Zul Nazman
+51282	Captain Conrad
+51283	Batıya Yolculuk
+51286	Tahliyeyi Durdur
+51308	Zuldazar Üssü
+51309	Ragnaros un Kayaları
+51310	Kayıp Ekinin Yağmacıları
+51314	Tahıl Yokluğu
+51319	Son Yükseliş
+51320	Mühürlenmiş Kader
+51331	Köstebek Makineleri
+51332	Okyanus Ötesine Yolculuk
+51335	Kurabiyeler ve Krema
+51339	Temizlik Faturası
+51340	Drustvar a Doğru!
+51341	Denizin Kızı
+51343	Yüzme Dersleri
+51349	Onuruna Bağlı
+51350	Beklenmedik Yardım
+51351	Zehirli Kancalar
+51352	Kibritle Oynama
+51353	Ai twen in Mağarası
+51355	KULLANILMAMIŞ
+51356	ARANAN: Sister Lilias
+51357	Zırhlı ve Hazır
+51358	ARANAN: Gryphon Kaçakçıları
+51359	Firelands in Parçaları
+51364	Patlayıcı Bir Çıkış
+51366	Panzehir Uygulaması
+51367	ARANAN: Raging Earthguard
+51368	ARANAN: Hornet
+51369	Tuhaf Yerlerdeki Arkadaşlar
+51371	Lezzetli Adak
+51384	ARANAN: Quartermaster Ssylis
+51386	Savaş Galibi
+51389	Serbest Kalmak
+51390	ARANAN: Crimson Cuttroats
+51391	Faithless ı Durdur
+51394	Kuşatmayı Kırmak
+51395	Muhafızların Anahtarları
+51397	İçinden Geç
+51400	The Heart of Azeroth
+51401	Devam Et
+51402	Rapor Vermek
+51403	Sözcünün Buyruğu
+51407	Kelimelerini Bul
+51418	Xibala
+51421	Shiver Me Timbers
+51426	Teftiş Aygıtı
+51427	Kaplumbağaları Seviyorum
+51430	Ters Tamir
+51435	Swashbuckling Modasına Uygun
+51436	Korsanlarla Müzakere
+51437	Panç ı Berbat Et
+51438	Bölgemizi İşaretlemek
+51439	Gülle Koleksiyonu
+51440	Yön Değişikliği
+51441	İşte Patlıyor!
+51442	Artık Kaptan Benim
+51443	Görev Beyanı
+51472	Hayat Koruyucusu
+51476	Tanrı korusun
+51487	Cevapları Aramak
+51488	Arşivlenmiş Bilgi
+51489	Ayrılma Zamanı
+51490	Sınır Sorunları
+51492	Barut Planı
+51493	İyi Çoban
+51499	Azeroth u Kurtarmak İçin
+51504	Kurabiye Teslimatı
+51526	Warlord un Çağrısı
+51532	Saldırıya Geçmek
+51536	İz Peşinde
+51538	Derinlerden Gelen Söz
+51539	Horde u Bilgilendir!
+51540	Patlayıcı Durum
+51543	Kardaki Fidanlar
+51544	Topları Etkisiz Hale Getirmek
+51545	Kötü Kırıcı
+51547	ARANAN: Rindlewoe
+51552	Yoğun Günler
+51554	Mermi Doldurmak
+51555	Hiç Kurtulan Yok
+51556	Kendine Gelmek
+51557	Irontide Uyarısı
+51568	Ritüelistik Hazırlıklar
+51569	The Zandalar Harekatı
+51570	Foothold: Zuldazar
+51571	Foothold: Nazmir
+51572	Foothold: Vol dun
+51573	Arkanı Kolluyorum
+51574	Taze Sıkılmış
+51587	İleriye!
+51589	Kul Tiran ın İradesini Kırmak
+51590	Tiragarde nin Kalbine Doğru
+51591	Artık Bizim Dağımız.
+51592	Evimizdeymiş Gibi Hissetmek
+51593	Bridgeport Soruşturması
+51594	Dökümhanedeki Patlayıcılar
+51595	Patlayabilirlik
+51596	Cephaneyi Ele Geçirme
+51597	Barut Araştırması
+51598	Birazcık Karmaşa
+51599	Ölüm Tuzağı
+51601	Bridgeport Yolculuğu
+51602	Haydut Bıçakları
+51643	Demirden Duvar
+51663	Yıkıma Hazırlık
+51668	Mojambo
+51674	Alevleri Söndürmek
+51675	Avla Onları
+51677	Vücudu ve Ruhu Onarmak
+51678	Rastakhan s Might
+51679	Tuhaf Bir Emir Limanı
+51680	Bwonsamdi nin Gölgesinde
+51691	Neredeyse Kurtarmaya Değer
+51696	Bizim Olanı Geri Almak
+51711	Coşmak
+51712	Göze Göz
+51714	Kraldan Gelen Görev
+51715	Zandalar Operasyonu
+51717	Vol dun daki En İyi Bal
+51718	"Bal" Hasadı
+51720	Parçalayıcı
+51723	Testereler Toz Oldu
+51724	Güçlendirilmiş
+51726	Buradan Çıkmak
+51728	Hepsini Yak Geç
+51750	Sahadaki Terfi
+51751	Operasyon Hükümdarlık
+51752	Kır
+51756	Ekonomik Darboğaz
+51771	Gölgelerin Savaşı
+51772	Tortaka Kabilesi
+51773	Ashvane Tehdidi
+51775	Lastwind Kampı
+51784	Bir Mezarlık Gezintisi
+51785	Mezar Taşı Yazılarını İncelemek
+51786	Huzursuzluk Durumu
+51787	Yaşamdaki Payımız
+51788	Mezar Bekçisi
+51789	Marshal M. Valentine dan Geriye Kalanlar
+51795	Lordaeron Muharebesi
+51796	Lordaeron Muharebesi
+51797	Tidesageleri Takip Etmek
+51798	Paha Biçilmez
+51803	Kul Tiras Seferberliği
+51805	Korkuyu Öğrenenecekler
+51810	Kaptan Hartford
+51818	Kumandan ve Kaptan
+51819	Düşmanlarımızı Dağıtmak
+51829	Ranah ın Anahtarı
+51830	Zelling in Potansiyeli
+51837	Her Ne Olacaksa
+51845	Fırtınanın Sonu
+51851	Malikane Baskını
+51852	Malikhaneye Baskın
+51870	Ada Harekatı
+51881	Maden Tarayıcı
+51883	Grizz in Öğle Yemeği
+51888	Ada Harekatı
+51903	Ada Harekatı
+51904	Ada Harekatı
+51918	Kul Tiras ı Birleştirmek
+51961	Devam Eden Seferberlik
+51967	Boralus a Dönüş
+51968	Boralus a Dönüş
+51969	Boralus a Dönüş
+51979	Süregelen Seferberlik
+51980	ARANAN: Jabra kan
+51984	Zuldazar a Dönüş
+51985	Zuldazar a Dönüş
+51986	Zuldazar a Dönüş
+51990	Kraal için Kanatlar
+51991	Pilleri Şarj Etmek
+51992	Kara Ameller ve Kara Günler
+51993	Karanlık İşlerden ve Karanlık Günlerden
+51998	DGH:Şimdi de Gerçek Bir Direhornla
+52012	Sığınağa Kurt Takviyesi
+52018	İmparatorluğun Düşüşünü Durdurmak
+52019	İmparatorluğun Düşüşünü Durdurmak
+52023	Horde u Bilgilendirmek
+52024	Horde u Bilgilendirmek
+52026	Denizaşırı Suikast
+52027	Vol dun Planı
+52028	Çölü Tara
+52029	Pis iş
+52030	Aramaya Devam Et
+52031	Klasik Kutsal Emanet Sandığı
+52032	Taramayı Asla Bırakma
+52033	ARANAN: The Rime Huntress
+52034	Zandalari ye bir mesaj.
+52035	Doğaçlama Sağkalım
+52036	Burada Alpacalar Var
+52038	Ayrılmak
+52039	Gecikmiş Ölüm Sertifikası
+52040	Ok ile dolu
+52041	Wrymbane e rapor ver
+52042	Büyük Patlama
+52058	Kısa Süren Barış
+52060	Horde Ayaklanması
+52062	Ashenvale da Kargaşa
+52065	Göründüğünden Daha Beter
+52067	Kurtulanlar
+52068	Git Başkasına Yardım Et!
+52069	Daha Çok Saman
+52070	Bauer Desteği
+52072	Elune un Işığı
+52073	Krag wa ya Rica 
+52074	Teslimat
+52075	Kemiklenmek
+52116	Hoş Bir Parıltı
+52118	Rekabeti Kesmek
+52122	Forsaken Olmak
+52127	Kurt İni
+52128	Feribot Bileti
+52129	Güç Problemleri
+52130	En Ölümcül Zula: Anı Yaşa
+52131	Birbirimize İhtiyacımız Var
+52132	Korsanlığın İspatı
+52139	Eldeki Konular
+52146	Kumdaki Kan
+52147	Horde u Felç Etmek
+52148	Freehold: Bir Korsanın Sonu
+52149	Ebedi Yanış
+52150	Bir Dark Ranger Nasıl Öldürülür
+52154	Bir Sonraki Hedefimiz
+52156	Tortallanların Sıkıntısı
+52158	Vahşi Av
+52170	Areiel i Bitirmek
+52171	Tek Seçenek: Yangın
+52172	Burada Kalamazlar
+52173	Vold Elfler Hazır ve Nazır
+52183	Plan Bir Araya Geldiğinde
+52184	Ayin in Yadigarları
+52185	İyi Konumlandırılmış Bir Portal
+52186	Muhafız ın Cüssesi
+52187	Eski Meslektaşlar
+52188	Tidesage Öğretileri
+52189	Kayıp Ruhlar
+52190	Üstünlüğü Kazanmak
+52191	Hayat Rehin Tutuyor
+52192	Dalgaların Yardımı
+52197	Çok Uzakta
+52203	Evrağı Bul
+52204	Void Çözümü
+52205	Bilgewater İşine Çomak Sokmak
+52208	Akılların Buluşması
+52210	SOS Gönderiyoruz
+52219	Hedef: Blood Prince Dreven
+52222	Stonefist Watch
+52234	Yaprakların Arasında Gizlenmiş
+52240	Bahçe Korusu
+52241	Açgözlü Goblin in Cenneti
+52242	Yeni Birşeyin Uyanışı
+52245	Öfkeli Furbolglar
+52247	Gallywix in Peşinde
+52256	Malfurion un Dönüşü
+52257	Dünyayı Salla
+52258	Denizkızı, Deniz Kabukları Satıyor
+52259	Bundan Keyif Almayacağım
+52260	Köşeye Sıkıştırdık
+52261	Gallywix Sıvıştı
+52276	Swiftwind Post
+52279	Yakın Tehdit
+52281	Swiftwing in Örtüsü Altında
+52282	Bir Zandalari Savaşgemisi nasıl batırılır?
+52283	Pa ku ya Sabotaj
+52284	Gemi Günlükleri
+52285	Büyütüp Küçültülmüş Denizaltı
+52286	Burunlarının Hemen Altında
+52287	İstihbarat Reddedildi
+52288	Void Tatili
+52289	Zafer Garanti
+52290	Düşmanımın Düşmanı Sahte Kimliğimdir
+52291	Zafer Garantilendi
+52294	Düşmüş Putlar
+52305	Doğaya Karşı Bakım
+52308	Engellenmiş Emirler
+52314	Mudfisher Cove
+52320	Windfall Cavern
+52428	Kalbi Aşılamak
+52431	Çıkarma-Yapılamaz Bölge
+52436	Blackwood Den
+52437	İyi Şeylerin Başlangıcı
+52438	Vahşi bir Sürüş
+52439	Iron Stores
+52443	Son Üs
+52447	Büyüme Süresi
+52473	Filoyu Alt Etmek
+52477	ARANAN: Ayame
+52479	Hillcrest Otlağı
+52480	ARANAN: Ayame
+52481	Efsane ve Masal
+52482	Yaşlı Ayı
+52483	Kabus Yakalayıcı
+52484	Gömülü Güç
+52485	Nefretin Odağı
+52486	Waycrest Manor: Heartsbane ı Kurutmak
+52489	Blood Prince Dreven ı Avlamak
+52490	Düşman Gemilerinin Ardında
+52491	İhmal Kıyameti
+52492	Wildhammer Spesiyali
+52493	Olağandışı Mürettebat
+52494	Kokuşmuş İnsanların Kokuşmuş Kristalleri
+52495	San layn Tehditine Son Vermek
+52496	Temiz Bir Kaçış
+52544	Savaş Zulası
+52654	The War Campaign
+52746	Savaş Zulası
+52749	Savaş Seferberliği
+52750	Savaşan Çiftçiler
+52764	Hiçbir Yerin Merkezine Yolculuk
+52765	Derin Dalış
+52766	Deniztabanı Gemi Enkazı
+52767	Künyeleri Kontrol Etmek
+52768	Batık Mezarlık
+52769	Kaptandan Kaptana
+52770	Biyo-Sıkıntı
+52772	Sualtı Resifi
+52773	Su-Soluyan Ejderha
+52774	Al ve Git
+52787	Acıyı Uyuşturmak
+52788	Kimseyi Hayatta Bırakma
+52789	Danışmanı Susturmak
+52790	Öldürmeye Bir Son
+52793	Savunmayı Sıklaştırmak
+52795	Ekşi Tepe
+52796	Bazen Daha Az Daha Fazladır
+52800	Tol Dagor: Ashvane Overseer ı
+52806	Büyüyen Tehdit
+52855	Simya Kesin Bir Bilim Değildir
+52857	Müşahede Altında Tutulan
+52876	ARANAN: War Gore
+52944	Orduya Çağrı: Drustvar
+52958	Orduya Çağrı: Drustvar
+52967	Saurfang in Dönüşü
+52970	Yeterince Merhamet
+52971	Sahil Randevusu
+52973	Kuzeyden Gelen Tehdit
+52974	Kurtarma Çabası
+52975	Eylem Zamanı
+52977	Shan do muzun Rehberliği
+52978	Kızakta Prens İle
+52981	Katil Kraliçe
+52990	Limana Dön
+53003	Nefret Döngüsü
+53028	Ölen Bir Dünya
+53031	Sözcünün Buyruğu
+53041	Numune Almak
+53045	Rıhtımı İncelemek
+53050	Kul Tiras ın Derinlerine
+53056	Etkimizi Yaymak
+53062	Azerite Avantajı
+53065	Operasyon: Mezar Kazıcısı
+53066	Operasyon: Water Wise
+53067	Operasyon: Çıkarcı
+53068	Operasyon: Yemleme
+53069	Operasyon: Kanlı Ok
+53070	Operasyon: Yankesici
+53071	Operasyon: Gryphon un Pençesi
+53072	Operasyon: Kalp Krizi
+53074	Destek Kuvvetler
+53079	Destek Birlikleri
+53081	Görev Raporu: Yedek Parçalar
+53095	Umut Işığı
+53097	Umutsuz Arınmalar
+53099	Kozmik Hakikat Zerresi
+53102	Görev Raporu: Doğanın Çağrısı
+53103	Hasır Büyü
+53105	Yanlış İnanç
+53109	House Waycrest
+53110	Yüce Thornspeaker
+53125	Görev Raporu: Hasır a Doğru
+53126	Hasır Totem
+53148	Boulderfist Ezmek
+53150	Witherbarkları Silip Süpürmek
+53151	Görev Raporu: İnin Kurtları
+53152	Den için Eğitilen Kurtlar
+53154	Birlik Kaybedecek
+53173	Syndicate in Günahları
+53190	Şeytan Çıkarma
+53193	İki kez-Sürgün
+53194	Ön Saflara
+53197	Cepheyi Dolaşmak
+53198	Boralus a Dönüş
+53207	Cephenin Karaltıları
+53208	Cepheye Doğru
+53210	Cepheyi Dolaşmak
+53212	Zuldazar a Dönüş
+53310	Küllerden...
+53330	ARANAN: Razorclaw Alpha
+53332	Savaş Vakti
+53333	Savaş Vakti
+53348	ARANAN: Thundersnout
+53369	Loh a Layık Ol
+53370	Hesaplaşma Vakti
+53372	Hesaplaşma Vakti
+53414	Warfront: Stromgarde Savaşı
+53416	Stromgarde Muharebesi
+53438	ARANAN: Wyvern Poacher lar
+53439	Sulardaki Kan
+53440	ARANAN The Hornet
+53442	Kazazedeler
+53443	En Sevdiğim Şeyler
+53444	Parıldayan Madalyon
+53445	Kızkardeşleri Susturmak
+53446	Yerel Tatlar
+53451	ARANAN: Raging Earthguard
+53454	ARANAN: Quartermaster Ssylis
+53456	ARANAN: Rime Huntress
+53458	ARANAN: Rindlewoe
+53459	ARANAN: Sister Lilias
+53461	Kıymetli Metaller
+53462	Hepsi Sarılmış Halde
+53463	Sekiz-Bacaklı Lanet
+53551	Elfler İş Başında
+53583	Taktiklerimizi Uyarlamak
+53602	Taktiklerimizi Uyarlamak
+53604	Temizlik
+53605	Glaive Anlaşmazlığı
+53606	Agresif İlham
+53608	Horde Savaş Makinasına Yakıt
+53609	Net Bir Mesaj
+53610	Onları Dışarı Sür
+53616	Forsaken ın Bıçakları
+53617	Deliler İçin Merhamet
+53619	Azerite Reddi
+53621	Horde Giremez
+53622	Lor danel Savunması
+53627	Azerite Hediyesi
+53672	Savaşa Hazır
+53673	Zırhını Kuşan!
+53674	Altar ın Gücü
+53677	Newsteadîn Hayvanları
